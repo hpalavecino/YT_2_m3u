@@ -47,6 +47,10 @@ https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TELEFE
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1269356507&_cdn_timestamp=1696774307&_cdn_token=ffc692f53a10bccfa0b990bac154fd9ba8fdecdc
+#EXTINF:-1 group-title="Varios",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 '''
 
 import requests
