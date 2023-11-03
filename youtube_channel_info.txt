@@ -35,3 +35,5 @@ IPTV | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBanglade
 https://www.youtube.com/@IPNoticiasEnVivo/live
 LaGacetaPlay | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
 https://www.youtube.com/@lagacetadetucuman/live
+LaTucumanaFM | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
+https://www.youtube.com/@latucumanafm/live
