@@ -333,6 +333,20 @@ http://181.78.105.146:8800/play/a079
 http://181.78.105.146:8800/play/a07r
 #EXTINF:-1,ESPN HD
 http://181.78.105.146:8800/play/a053
+#EXTINF:-1,TyC Sports HD
+http://177.128.113.8:1/play/a09v
+#EXTINF:-1,TyC Sports HD
+http://177.128.113.8:2/play/a09v
+#EXTINF:-1,ESPN 2 HD
+http://177.128.113.8:1/play/a07g
+#EXTINF:-1,ESPN 3 HD
+http://177.128.113.8:1/play/a081
+#EXTINF:-1,ESPN 4 HD
+http://177.128.113.8:1/play/a08i
+#EXTINF:-1,ESPN Extra HD
+http://177.128.113.8:1/play/a08v
+#EXTINF:-1,ESPN HD
+http://177.128.113.8:1/play/a07l
 '''
 
 import requests
