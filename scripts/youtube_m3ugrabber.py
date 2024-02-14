@@ -251,6 +251,22 @@ http://38.43.132.86:8000/play/a008/index.m3u8
 ################################################
 ################################################
 
+#EXTINF:-1,ESPN ARG
+http://191.97.14.38:4000/play/a017/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://191.97.14.38:4000/play/a016/index.m3u8
+#EXTINF:-1,ESPN 3
+http://191.97.14.38:4000/play/a027/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://191.97.14.38:4000/play/a04d/index.m3u8
+#EXTINF:-1,ESPN CO
+http://191.97.14.38:4000/play/a01p/index.m3u8
+#EXTINF:-1,ESPN HD
+http://191.97.14.38:4000/play/a04g/index.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://191.97.14.38:4000/play/a04u/index.m3u8
+#EXTINF:-1,TyC
+http://191.97.14.38:4000/play/a019/index.m3u8
 #EXTINF:-1,ESPN +
 http://45.5.119.155:8090/play/a05l/index.m3u8
 #EXTINF:-1,ESPN HD
@@ -283,22 +299,6 @@ http://45.166.92.22:58001/play/a01h/index.m3u8
 http://45.166.92.22:58001/play/a01g/index.m3u8
 #EXTINF:-1,TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1,ESPN
-http://191.97.14.38:4000/play/a017/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://191.97.14.38:4000/play/a016/index.m3u8
-#EXTINF:-1,ESPN 3
-http://191.97.14.38:4000/play/a027/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://191.97.14.38:4000/play/a04d/index.m3u8
-#EXTINF:-1,ESPN CO
-http://191.97.14.38:4000/play/a01p/index.m3u8
-#EXTINF:-1,ESPN HD
-http://191.97.14.38:4000/play/a04g/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://191.97.14.38:4000/play/a04u/index.m3u8
-#EXTINF:-1,TyC
-http://191.97.14.38:4000/play/a019/index.m3u8
 #EXTINF:-1,ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1,ESPN 2
