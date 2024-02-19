@@ -1,67 +1,67 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377066/ei/im_TZaGrDq2JsfIPse2KkAI/ip/20.125.126.41/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_aEBD096woripDZw60SysOgypTfCSYxP1V-X56j1Ro/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAITmk-eA_bQt6XskpkGb6sFuSBmIkdmsN1PUDCCrGkWXAiBO4WB8K0afoT69b7DIzGUs3mRzN_zQ-XjEaU762XlMtA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388033/ei/YZrTZdv6KqCB_9EPmoS36Ak/ip/40.76.119.174/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9pj2grfuCs-DsPiE2sl58KTxhiFCg-ms386HkyYhGw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKBKRPs5l2gHdHZgSwSlBD-Mg1hYRDPEboMwRyABUXWDAiEAgkntUT4xNHdkubrvkWh2Yg9-VA73JnckHt1-5xSqeMY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377067/ei/i2_TZaSOBJ2psfIPjdOm2A8/ip/20.125.126.41/id/Hy4UCfsE6Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxAR-x9b7EqmOOYfXG3FwBFz5_-3ABza9QN4_J8_oIo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOuZbIfsfgq6Bwn0cYVEI82pMI6O-Yhb3PZGNLoNVLgIAiEA7rko8J9SKD064QNINobM_23h4dEZPIPewMVhghbOsR8%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388034/ei/YprTZde5EYCD0_wPq9qHwAQ/ip/40.76.119.174/id/Hy4UCfsE6Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f57lCKYgS73I7L6MsKg3wrly2VJCZEL-6j7u892xiro/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKDcqWaEszJdMQ5dkXmz5cA-hgJIotzyaAm5oNvNYz5eAiBl1ESBZd4HcclvZHJQ3WyjykpmzfB0e29tlATHSJ03VA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", CrónicaTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377067/ei/i2_TZdneKcmbsfIPgta3yAc/ip/20.125.126.41/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3HjJXgpgAMmQwHNuUt1aHvwYW5S9iWG_Dp1WGHt7M8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALwvNtp-VwD41q20Gtje50PJ6W_VXZHOvuq9RpVhp6RyAiEA2gzrSy8PjX_7cic3PDu6D8lu53upmuxUd1qbdkqKoE0%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388035/ei/Y5rTZd6MDKu00_wP8aOYsAQ/ip/40.76.119.174/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-KKa2M7Zv7WAQ1CKnjpbyr_SWEk0wN6xpoHtzMDWlI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZWcKH0Dwg7HCItMgP1kacyNYFkEQgt1ImmPW_tKN0zUCIQD-61vAbtBknFvZkxGOc1TKKkffbAlEjnla5UFN4YXyNg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377068/ei/jG_TZcOvDviQsfIPn56qmAk/ip/20.125.126.41/id/LY2XEQ_SSXA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9j_exNtsXiWVjq9gd4XNPOTAGHm_SmZM3TsP9G_U4Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSM5JvAZUYO_PwFkTwANtnYoTPBEjw-ESCA48_2yeWloCIQD-Y4kyi7acwrKJbzcvszG1Bl-DfkHdXTTjkkcEVr88Bg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388035/ei/Y5rTZYSZLuKk0_wPkf696AU/ip/40.76.119.174/id/LY2XEQ_SSXA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2Yjkg5AfHXZZ92z7XQeVXWYCp8M1uE50IUHcFMax-s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgL91JRYYszL0b8wIgdJPrX6vzl_no8B2_9g89hol7lT0CIQDDfa31r0uXzVZhErwRGwXfGqJuOYFxHN9wGOfTSh7aMQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377068/ei/jG_TZeeuNMXAsfIPgJq66Aw/ip/20.125.126.41/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6cUZfficVu8pdkAUYD9LXHtR0fHBnLdNMKMp3qITx4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANnkeVRM8AQ2qYJ2doesFpTAOwbqpmwvRN2-hldySAOiAiB_xXiu77Un4tXDqoqUd_VGThhJpgCC1QlIV3T6UFAwtw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388036/ei/ZJrTZdCQEfq2_9EPv6iB-A8/ip/40.76.119.174/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0CrT9OZ35wzwzPH7CjgEvnogwyE1vNOQUHO4doCBKk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPEUYvMtScjFHI8lBIHODpbcHbzUL9E0mdYuiN4TjxUZAiAUCCGCsz4RPDX4Kk2jd_uCSe143tkKdfiUyDeopjVeBA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TVPublica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377069/ei/jW_TZY3uG93UsfIPjdKrmAo/ip/20.125.126.41/id/0B5cHwwnwfA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f0uf6-E5g9i81j3LqemNeNDXxsELWDmqKV0LV5Zoo3g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeOxXN7REJ092b-UwFk2QJCOp98vdbZldRzkfBpa5Dy8CIQDv4W1FxD9P6IbUOJsf7lPbaA_4rmVtMsHsAaPo46a7zw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388036/ei/ZJrTZfSGMKy4_9EPl7Ks6As/ip/40.76.119.174/id/0B5cHwwnwfA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f0EBqxP8mDgWR8uxDaeXoWS8tBQ-VutRX7T3nZw_gv4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgF9bfS6lnmsxDBC0H_EDE5Uv61cAVBPtRwBbK52cMDy8CIQCEDX_oqugfxdS3g1m_7uASwXR8wqd6p_HFuEMwA_SEdw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Canal26
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377070/ei/jW_TZd7hO9aZsfIP9b65uAI/ip/20.125.126.41/id/RnTmtVFTSf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-FD7NzFDcGzds9ANGNDuQ3jYGQ71AUZjtem4xLHGZU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMvRal9oSsBkMyuSgIhxR1wbzcPkwo8hzUwxY_g--gmEAiAiU2V4er6swGvLAOBuUZz_ejD6eK7ETjTaxOyICm1NPQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388037/ei/ZZrTZa2BDI6O_9EP1q-eiAs/ip/40.76.119.174/id/RnTmtVFTSf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9lfXvZXBp2gUvjiS4RsGYZevyMWAaSgBpmZPbVKoj0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPB2yAq7_anxb3m_efYkblMbsFy3GiwBC5NHirq8CCprAiBZAGTQHm38lbSrk3BUQ3PnyWlE1ytAY5L_SGGbjVbGPQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", ElOchoTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377070/ei/jm_TZY_1K-fXsfIPz-6vsA8/ip/20.125.126.41/id/jqCiKvPEY9Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7_uqkWxJDVSajCooLIEv8oFrL8BT3ZKlYCQIY0p3GI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKL4pTx5f6ti-UlLSSt7WDvXu8aK8j4-W1FTtStQPoEVAiBWdflkvONqkyBvH1MXIBIaABDPkxdKB0P1-5_ILjWoCQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388037/ei/ZZrTZcGmLZ-8_9EPgbeXmA4/ip/40.76.119.174/id/jqCiKvPEY9Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f16lVcyOb4HZ17YGscMdpSJhnR9gH0J1OaIP1WIRjjI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANZ7Vuc7om--SZYiWp4cgBgQcR3ZDMDMNDIcZTq0I631AiEA3fQgaZv_dtzrknc2a0jESFTimQiKi2VCm5ZMFV8e_Tg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", IPTV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", LaGacetaPlay
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377071/ei/j2_TZfeGMo2SsfIPgcmukA8/ip/20.125.126.41/id/EwEkYPV7Vmc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f55Z06u8d6YB15WCVzx6De9RI_Jc1ipDaBpCr9uFHPg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOstaBKixEpk44fRAlH6srXL3djbSPL5ymdk0Nq3TUxoAiEA1Zn33GaJp__LEE0dqXWJ0ITefNir3L_25cjHY5hX7wk%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", LaTucumanaFM
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Luzu TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377073/ei/kG_TZcvCPLnXsfIPvOWNsAw/ip/20.125.126.41/id/pOOKb__6Hro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3yKlJhFir4drgn67f7SgpKjkQ1BVuc-1I8uwA6afww/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZOPei64xt7gDsN9hdjvPeprlE0Ks6cwh2cHQxQzrsw4CIQC4I8rcJHvk8BOJ0_TPuFvTzQx3sQ2yc6kxTCSTTebC5w%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388040/ei/aJrTZYHpBLaO_9EPh_aR-A8/ip/40.76.119.174/id/pOOKb__6Hro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyKsIaX9iyU3ck_Ewll8j96Qutmf7_XLH24EeABIXzE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANSbaiovjuEPMbvWxVAT_reIVsfgZ4ZM2K79Cl687L_vAiEA0jqHVaUy1qDDCDpsKWRVBohk9shpNmoP3Wwu19JraGY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Urbana Play 104.3 FM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377073/ei/kW_TZZW2JtjLsfIP3KqZgAM/ip/20.125.126.41/id/yRe9EtFwVek.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8gdN_EomAMyabzCFl87czFNn35rjk5Uxyxzvyz9_10/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANcsHSBxIIqrdTSSCoMamava-KmFhtJxTJQQL7S0yHz-AiEAhfjMHoNHxzg2z_01xJvvfLkkbu_lNCZ4lxrHQZDkIHc%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388040/ei/aJrTZcO1I6Co_9EP6P2iyA8/ip/40.76.119.174/id/yRe9EtFwVek.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7A9OFaIMwpBzhG-t99fH1oOC2SCI4VnX-9Sdt0UevE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIfFqqGHena4GqztTln6oJJ69_0oXR69h7dB3k-8Y2icAiBjw-gvoBs5BsYEP-4qol4LdMdO6lBSpZYgIX68QnXDRw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Radio Mitre
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377074/ei/km_TZZWVDtaZsfIP9b65uAI/ip/20.125.126.41/id/pzIEDvG6SHU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxTVz-mNMZuuQ9OIvVe_JvWYAYb_j3gxKjrqSw3VTNg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIikCdAPuXqcTFFOmWFDDORwHA8TkzUvhSwDRDw6vYcGAiEAwqyjh58rviBpTjln7Qbs5qfsxzVp4k4M1b3gmjnj4e8%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388041/ei/aZrTZenzBYmU_9EPu_izgAo/ip/40.76.119.174/id/pzIEDvG6SHU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9ze2tO9Ged0bgfGMWcL8fodyIgjOXXURQu3QBuvz34/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPyyKo4CW5NHmoFP_EnouK1eqtI8UI5b41mIXs7_Z-lDAiAq1BmwDukAAE4VCnxmPdKEUtSnwpEDDTOU7UNIa-G4SQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", La100
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Vorterix
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377076/ei/lG_TZbv5BImWsfIPtNqhsAM/ip/20.125.126.41/id/DxGcFO-LskM.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzWmnt7U-oyvpvvGGEiJYjL1ulxoauF22W35Xv2_SFo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANh9yqf99fPHHsjuFg3zJHPuu96S1vIeHDQM428J8HHLAiEA9_dxF84lV7F48cpV74Oj0R0-LtPMKesGSOxmCTyLDM4%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388042/ei/aprTZeG6K5yg_9EPm5OL6As/ip/40.76.119.174/id/DxGcFO-LskM.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f87FysAhnzrSfV2-h2R8_fOPqUHKPx3s6tp5H4Jh280/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPyxORsMvgachK3Qh2mvdBGhT7OHsdK02Q89v28K3OPZAiEAsgTILSbigafN261bmqdEzXr10Imqbc1djgvpf8CbqEE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", RadioConVos
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377076/ei/lG_TZdWKJJrasfIPtcOHuAQ/ip/20.125.126.41/id/PAV-Nkzrd6M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-RqvoZyX0oYJvrzkCB7nPJocWqKv-i2RJQYnB3dotA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM0BkSdS6vtQ2U7JpdjTYe3IvHNXaIYi84HoQPsDlDD7AiEArN-iwalfneRbHL03GbbCqH0zwvTLAWpjYXbSviEpekw%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388043/ei/a5rTZfiQCvaM_9EPtMOziA8/ip/40.76.119.174/id/PAV-Nkzrd6M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-b1r6hOFJYtWDjnv4Yizo5GpuALN_zOkQzalK1Q8GQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdJdNzHw4VIN6YTArgaO1MI4IEC70OFlNuHtVQtVYOfgCIHngVvczSAXOC-8E9R0ZgSR4-fCvQeUdOgxYPoRGqsu4/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Radio10
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377077/ei/lW_TZaCsFZCwsfIP_tqSuAQ/ip/20.125.126.41/id/nh5G5RKpQ8c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6ntTVJ6ur4h6dKH-2-GvoRooTQWqFtR-KzLF5L0bWpYhmHLiRXaaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgA7J8oASIGYH1a0qUolhA4YcV6sos5XoyMu7KlbbOfD0CIBTn7KaRpQUBbe3HzyY0OzzkaSpZH8qgg9-9xwMl9eep/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388043/ei/a5rTZZS-JOu4_9EPst2r4AU/ip/40.76.119.174/id/nh5G5RKpQ8c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3V6n4Ern8WOj6sjQxYDHcsoQemCQpyBHLIpVys-Cak/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPSseuwbDHyqt43FH5Q42Zev6AJZ43o6FRVXIdjukoAdAiACwV7cMxOkoUTQo_CSo-QxJps79Cte38uTggRSw08Fvw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", ElDestape
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377077/ei/lW_TZc-uNfSasfIP5O25mAs/ip/20.125.126.41/id/3-W8lXLaoWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6Epm439g1GrCyChqYsVNwBnYmgnlnDrElF1OxNCAFI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQmIEgbYnTBefaUuzGUdhOG4scseMjQHAfrMtLTlGl6ECIQDCDxUpJ5A8F9jzI3ZV8gFtwZi76HqRsFa7EsP-QIt6Cg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388044/ei/bJrTZfS_BNeW_9EPzoW0mA8/ip/40.76.119.174/id/3-W8lXLaoWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1xbRX3rJ2lpxaJwnoYloGLV6StlC3VBU-lQKHYqsmo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALzg2tPgIcnXSDLh0PJtQmQNmRgA1cvlbwBqF2JHzmxYAiAM7PNVhsIWtX2iJ2lGh3u0tNREqCEwituwQhxi8vFZZw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", OLGA
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Rock&Pop
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708377079/ei/l2_TZe67Kty8sfIP0IiXkAg/ip/20.125.126.41/id/ohXaYcCMH9Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f71tn_9nYGe2JQXxeZ6MtREWpURodW3dbsRo8Lp9KN4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKFhzNOYcB2SMQ_L3f8ZodKRr3Ygw1KFgtDn4BcuHOwQCID6kXMxnawRb9_Rl3N1PqR6cuzfiC1A3ZesF4oj2vX-Y/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708388045/ei/bZrTZeiHHcCX_9EPo6eomAM/ip/40.76.119.174/id/ohXaYcCMH9Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw-qBVtg7jo643nYqPFqhRgFwW0Hat3qGQ-44NYeV9I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN_-J9zvhdSoeNgRnO3R9XzSjS4KQYfH0INA1ycXv-sBAiBo0a94xUr4EOdKxfEMorynjXRa1pw0SV1_-ATwrFKJ3A%3D%3D/file/index.m3u8
 
 #########################################################################
 #      ____            _           _   __  __                           #
@@ -104,214 +104,98 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 
-#EXTINF:-1,AE Mundo
-http://38.43.132.86:8000/play/a017/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.128.113.8:1/play/a07l
+#EXTINF:-1,ESPN 2 HD
+http://177.128.113.8:1/play/a07g
+#EXTINF:-1,ESPN 3 HD
+http://177.128.113.8:1/play/a081
+#EXTINF:-1,ESPN 4 HD
+http://177.128.113.8:1/play/a08i
+#EXTINF:-1,ESPN Extra HD
+http://177.128.113.8:1/play/a08v
+#####
+#EXTINF:-1,TyC Sports HD
+http://177.128.113.8:2/play/a09v
+#####
 #EXTINF:-1,AMC HD
 http://38.43.132.86:8000/play/a02l/index.m3u8
-#EXTINF:-1,ATV
-http://38.43.132.86:8000/play/a01n/index.m3u8
-#EXTINF:-1,AXN
-http://38.43.132.86:8000/play/a01v/index.m3u8
 #EXTINF:-1,AZ Cinema HD
 http://38.43.132.86:8000/play/a02t/index.m3u8
 #EXTINF:-1,America TV HD
 http://38.43.132.86:8000/play/a02c/index.m3u8
-#EXTINF:-1,America TV PY
-http://38.43.132.86:8000/play/a01r/index.m3u8
-#EXTINF:-1,AmericaTV
-http://38.43.132.86:8000/play/a01l/index.m3u8
-#EXTINF:-1,Animal Planet
-http://38.43.132.86:8000/play/a010/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://38.43.132.86:8000/play/a02v/index.m3u8
-#EXTINF:-1,BabyFirst
-http://38.43.132.86:8000/play/a00g/index.m3u8
-#EXTINF:-1,CNN Chile
-http://38.43.132.86:8000/play/a009/index.m3u8
-#EXTINF:-1,CNN Espanol
-http://38.43.132.86:8000/play/a00k/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://38.43.132.86:8000/play/a01a/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://38.43.132.86:8000/play/a00c/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://38.43.132.86:8000/play/a02p/index.m3u8
-#EXTINF:-1,Cinecanal
-http://38.43.132.86:8000/play/a004/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://38.43.132.86:8000/play/a02k/index.m3u8
-#EXTINF:-1,Cinemax
-http://38.43.132.86:8000/play/a01t/index.m3u8
 #EXTINF:-1,DHE HD
 http://38.43.132.86:8000/play/a032/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://38.43.132.86:8000/play/a00z/index.m3u8
 #EXTINF:-1,Discovery HD
 http://38.43.132.86:8000/play/a033/index.m3u8
-#EXTINF:-1,Discovery ID
-http://38.43.132.86:8000/play/a01f/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://38.43.132.86:8000/play/a00j/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://38.43.132.86:8000/play/a01z/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://38.43.132.86:8000/play/a02j/index.m3u8
-#EXTINF:-1,Disney Channel
-http://38.43.132.86:8000/play/a00y/index.m3u8
-#EXTINF:-1,Disney Jr
-http://38.43.132.86:8000/play/a00s/index.m3u8
-#EXTINF:-1,E Entertainment
-http://38.43.132.86:8000/play/a012/index.m3u8
 #EXTINF:-1,E! HD
 http://38.43.132.86:8000/play/a029/index.m3u8
-#EXTINF:-1,ESPN
-http://38.43.132.86:8000/play/a015/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://38.43.132.86:8000/play/a014/index.m3u8
-#EXTINF:-1,ESPN 3
-http://38.43.132.86:8000/play/a021/index.m3u8
-#EXTINF:-1,ESPN 4
-http://38.43.132.86:8000/play/a01o/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
 http://38.43.132.86:8000/play/a02m/index.m3u8
 #EXTINF:-1,ESPN HD
 http://38.43.132.86:8000/play/a028/index.m3u8
-#EXTINF:-1,Enlace
-http://38.43.132.86:8000/play/a00e/index.m3u8
-#EXTINF:-1,Esne TV
-http://38.43.132.86:8000/play/a020/index.m3u8
-#EXTINF:-1,FX
-http://38.43.132.86:8000/play/a01x/index.m3u8
 #EXTINF:-1,Food Network HD
 http://38.43.132.86:8000/play/a02b/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://38.43.132.86:8000/play/a01b/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://38.43.132.86:8000/play/a01c/index.m3u8
-#EXTINF:-1,France 24
-http://38.43.132.86:8000/play/a01g/index.m3u8
 #EXTINF:-1,GOLPERU HD
 http://38.43.132.86:8000/play/a02f/index.m3u8
 #EXTINF:-1,Golden HD
 http://38.43.132.86:8000/play/a026/index.m3u8
-#EXTINF:-1,HBO
-http://38.43.132.86:8000/play/a01s/index.m3u8
-#EXTINF:-1,HBO 2
-http://38.43.132.86:8000/play/a00o/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://38.43.132.86:8000/play/a02u/index.m3u8
-#EXTINF:-1,HBO Family
-http://38.43.132.86:8000/play/a00r/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://38.43.132.86:8000/play/a035/index.m3u8
 #EXTINF:-1,HBO HD
 http://38.43.132.86:8000/play/a02n/index.m3u8
-#EXTINF:-1,HBO Plus
-http://38.43.132.86:8000/play/a00p/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://38.43.132.86:8000/play/a036/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://38.43.132.86:8000/play/a00q/index.m3u8
 #EXTINF:-1,History 2 HD
 http://38.43.132.86:8000/play/a034/index.m3u8
-#EXTINF:-1,History Channel
-http://38.43.132.86:8000/play/a003/index.m3u8
-#EXTINF:-1,HomeandHealth
-http://38.43.132.86:8000/play/a01j/index.m3u8
-#EXTINF:-1,I-Sat
-http://38.43.132.86:8000/play/a006/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
 http://38.43.132.86:8000/play/a02o/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://38.43.132.86:8000/play/a031/index.m3u8
-#EXTINF:-1,Latina
-http://38.43.132.86:8000/play/a01k/index.m3u8
 #EXTINF:-1,Latina HD
 http://38.43.132.86:8000/play/a02d/index.m3u8
-#EXTINF:-1,Lifetime
-http://38.43.132.86:8000/play/a00h/index.m3u8
 #EXTINF:-1,Lolly Kids HD
 http://38.43.132.86:8000/play/a02x/index.m3u8
 #EXTINF:-1,Love Nature HD
 http://38.43.132.86:8000/play/a02y/index.m3u8
-#EXTINF:-1,MTV
-http://38.43.132.86:8000/play/a007/index.m3u8
 #EXTINF:-1,MTV HD
 http://38.43.132.86:8000/play/a030/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://38.43.132.86:8000/play/a025/index.m3u8
-#EXTINF:-1,NTV
-http://38.43.132.86:8000/play/a02g/index.m3u8
-#EXTINF:-1,Nat Geo
-http://38.43.132.86:8000/play/a002/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://38.43.132.86:8000/play/a02i/index.m3u8
-#EXTINF:-1,Nick Jr
-http://38.43.132.86:8000/play/a01y/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://38.43.132.86:8000/play/a001/index.m3u8
-#EXTINF:-1,Panamericana TV
-http://38.43.132.86:8000/play/a01m/index.m3u8
 #EXTINF:-1,Paramount HD
 http://38.43.132.86:8000/play/a02q/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://38.43.132.86:8000/play/a01e/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://38.43.132.86:8000/play/a00a/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://38.43.132.86:8000/play/a02s/index.m3u8
-#EXTINF:-1,Sin Limites
-http://38.43.132.86:8000/play/a01q/index.m3u8
-#EXTINF:-1,Sony
-http://38.43.132.86:8000/play/a01u/index.m3u8
-#EXTINF:-1,Space
-http://38.43.132.86:8000/play/a01w/index.m3u8
 #EXTINF:-1,Stingray Concerts HD
 http://38.43.132.86:8000/play/a02a/index.m3u8
-#EXTINF:-1,Studio Universal
-http://38.43.132.86:8000/play/a00u/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://38.43.132.86:8000/play/a02r/index.m3u8
-#EXTINF:-1,TCM
-http://38.43.132.86:8000/play/a00b/index.m3u8
-#EXTINF:-1,TLC
-http://38.43.132.86:8000/play/a018/index.m3u8
-#EXTINF:-1,TNT
-http://38.43.132.86:8000/play/a00d/index.m3u8
-#EXTINF:-1,TNT Novelas
-http://38.43.132.86:8000/play/a01h/index.m3u8
 #EXTINF:-1,TNT Novelas HD
 http://38.43.132.86:8000/play/a02w/index.m3u8
-#EXTINF:-1,TV Peru
-http://38.43.132.86:8000/play/a01p/index.m3u8
 #EXTINF:-1,TV+ HD
 http://38.43.132.86:8000/play/a02h/index.m3u8
-#EXTINF:-1,TVE
-http://38.43.132.86:8000/play/a00f/index.m3u8
 #EXTINF:-1,Telehit HD
 http://38.43.132.86:8000/play/a027/index.m3u8
-#EXTINF:-1,Telemundo
-http://38.43.132.86:8000/play/a01d/index.m3u8
-#EXTINF:-1,TyC
-http://38.43.132.86:8000/play/a016/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://38.43.132.86:8000/play/a02e/index.m3u8
-#EXTINF:-1,Universal
-http://38.43.132.86:8000/play/a005/index.m3u8
-#EXTINF:-1,ViaX
-http://38.43.132.86:8000/play/a019/index.m3u8
-#EXTINF:-1,WILLAX
-http://38.43.132.86:8000/play/a01i/index.m3u8
-#EXTINF:-1,Warner
-http://38.43.132.86:8000/play/a011/index.m3u8
-#EXTINF:-1,Zona Latina
-http://38.43.132.86:8000/play/a008/index.m3u8
 
 ################################################
 ################################################
 ################################################
 
-#EXTINF:-1,ESPN ARG
+#EXTINF:-1,ESPN
 http://191.97.14.38:4000/play/a017/index.m3u8
 #EXTINF:-1,ESPN 2 Latin
 http://191.97.14.38:4000/play/a016/index.m3u8
@@ -327,56 +211,33 @@ http://191.97.14.38:4000/play/a04g/index.m3u8
 http://191.97.14.38:4000/play/a04u/index.m3u8
 #EXTINF:-1,TyC
 http://191.97.14.38:4000/play/a019/index.m3u8
-#EXTINF:-1,ESPN +
-http://45.5.119.155:8090/play/a05l/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.5.119.155:8090/play/a0kg/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.5.119.155:8090/play/a0ki/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.5.119.155:8090/play/a0kh/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.5.119.155:8090/play/a0ix/index.m3u8
+###
 #EXTINF:-1,EVENTOS DEPORTIVOS
 http://45.5.119.155:8090/play/a057/index.m3u8
-#EXTINF:-1,MTV
-http://45.5.119.155:8090/play/a0if/index.m3u8
 #EXTINF:-1,MTV 00s HD
 http://45.5.119.155:8090/play/a0i0/index.m3u8
 #EXTINF:-1,MTV 80s
 http://45.5.119.155:8090/play/a0ge/index.m3u8
-#EXTINF:-1,MTV HD
-http://45.5.119.155:8090/play/a0gm/index.m3u8
 #EXTINF:-1,MTV Hits
 http://45.5.119.155:8090/play/a0gd/index.m3u8
-#EXTINF:-1,MTV SIM HD
-http://45.5.119.155:8090/play/a0hz/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
+###
 #EXTINF:-1,TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
+###
 #EXTINF:-1,ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1,ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1,ESPN 3
 http://181.78.105.146:2000/play/a03n/index.m3u8
+###
 #EXTINF:-1,ESPN
 http://181.78.105.146:6060/play/a036
-#EXTINF:-1,ESPN +
-http://181.78.105.146:6060/play/a027
 #EXTINF:-1,ESPN 2
 http://181.78.105.146:6060/play/a037
 #EXTINF:-1,ESPN 3
 http://181.78.105.146:6060/play/a00x
-#EXTINF:-1,ESPN 4
-http://181.78.105.146:6060/play/a043
-#EXTINF:-1,ESPN 4 HD
-http://181.78.105.146:6060/play/a04l
+###
 #EXTINF:-1,ESPN +
 http://181.78.105.146:8800/play/a04i
 #EXTINF:-1,ESPN 2 HD
@@ -393,18 +254,7 @@ http://181.78.105.146:8800/play/a079
 http://181.78.105.146:8800/play/a07r
 #EXTINF:-1,ESPN HD
 http://181.78.105.146:8800/play/a053
+###
 #EXTINF:-1,TyC Sports HD
 http://177.128.113.8:1/play/a09v
-#EXTINF:-1,TyC Sports HD
-http://177.128.113.8:2/play/a09v
-#EXTINF:-1,ESPN 2 HD
-http://177.128.113.8:1/play/a07g
-#EXTINF:-1,ESPN 3 HD
-http://177.128.113.8:1/play/a081
-#EXTINF:-1,ESPN 4 HD
-http://177.128.113.8:1/play/a08i
-#EXTINF:-1,ESPN Extra HD
-http://177.128.113.8:1/play/a08v
-#EXTINF:-1,ESPN HD
-http://177.128.113.8:1/play/a07l
 
