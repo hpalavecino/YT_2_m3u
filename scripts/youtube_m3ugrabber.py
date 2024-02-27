@@ -41,6 +41,35 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 #########################################################################
+
+#EXTINF:-1,ESPN HD
+http://190.90.154.73:8080/play/a012/index.m3u8 
+#EXTINF:-1,ESPN 2 HD
+http://190.90.154.73:8080/play/a00y/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.90.154.73:8080/play/a01x/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.90.154.73:8080/play/a02s/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://190.90.154.73:8080/play/a03f/index.m3u8
+#EXTINF:-1,TyC Sports
+http://190.90.154.73:8080/play/a062/index.m3u8
+###
+#EXTINF:-1,ESPN
+http://181.78.23.26:45000/play/a01i
+#EXTINF:-1,ESPN 2
+http://181.78.23.26:45000/play/a00m
+#EXTINF:-1,ESPN 2 Latin
+http://181.78.23.26:45000/play/a01h
+#EXTINF:-1,ESPN 3
+http://181.78.23.26:45000/play/a037
+#EXTINF:-1,ESPN 4
+http://181.78.23.26:45000/play/a025
+#EXTINF:-1,ESPN CO
+http://181.78.23.26:45000/play/a02p
+#EXTINF:-1,TyC
+http://181.78.23.26:45000/play/a01k
+###
 #EXTINF:-1,AMC HD
 http://38.43.132.86:8000/play/a02l/index.m3u8
 #EXTINF:-1,AZ Cinema HD
