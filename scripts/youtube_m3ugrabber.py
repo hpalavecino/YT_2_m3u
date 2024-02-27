@@ -191,45 +191,6 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Bics Variados",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 ###
-#EXTINF:-1 group-title="Bics Variados",ACCN ESPN
-http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN 2 MX
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN 3 MX
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN MX
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN US
-http://livex.pop-app.live/s4n/poplive/ch329/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN USA
-http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",Fox Deportes
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",Fox Sa
-http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",FOX SA
-http://livex.pop-app.live/s4n/poplive/ch312/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",FOX SPORT MX
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",FOX SPORTS 2 MX
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",FOX SPORTS 3 MX
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 | HD
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS HD
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 2 HD
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 3 HD
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES", FOX DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
-###
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN Extra  MX
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 PE
