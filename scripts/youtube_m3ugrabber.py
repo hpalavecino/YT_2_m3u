@@ -41,21 +41,6 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 #########################################################################
-
-#EXTINF:-1,ESPN HD
-http://177.128.113.8:1/play/a07l
-#EXTINF:-1,ESPN 2 HD
-http://177.128.113.8:1/play/a07g
-#EXTINF:-1,ESPN 3 HD
-http://177.128.113.8:1/play/a081
-#EXTINF:-1,ESPN 4 HD
-http://177.128.113.8:1/play/a08i
-#EXTINF:-1,ESPN Extra HD
-http://177.128.113.8:1/play/a08v
-#####
-#EXTINF:-1,TyC Sports HD
-http://177.128.113.8:2/play/a09v
-#####
 #EXTINF:-1,AMC HD
 http://38.43.132.86:8000/play/a02l/index.m3u8
 #EXTINF:-1,AZ Cinema HD
@@ -152,12 +137,6 @@ http://191.97.14.38:4000/play/a019/index.m3u8
 ###
 #EXTINF:-1,EVENTOS DEPORTIVOS
 http://45.5.119.155:8090/play/a057/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://45.5.119.155:8090/play/a0i0/index.m3u8
-#EXTINF:-1,MTV 80s
-http://45.5.119.155:8090/play/a0ge/index.m3u8
-#EXTINF:-1,MTV Hits
-http://45.5.119.155:8090/play/a0gd/index.m3u8
 ###
 #EXTINF:-1,TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
@@ -176,25 +155,138 @@ http://181.78.105.146:6060/play/a037
 #EXTINF:-1,ESPN 3
 http://181.78.105.146:6060/play/a00x
 ###
-#EXTINF:-1,ESPN +
-http://181.78.105.146:8800/play/a04i
-#EXTINF:-1,ESPN 2 HD
-http://181.78.105.146:8800/play/a055
-#EXTINF:-1,ESPN 3
-http://181.78.105.146:8800/play/a025
-#EXTINF:-1,ESPN 3 HD
-http://181.78.105.146:8800/play/a054
-#EXTINF:-1,ESPN 4
-http://181.78.105.146:8800/play/a06r
-#EXTINF:-1,ESPN 4 HD
-http://181.78.105.146:8800/play/a079
-#EXTINF:-1,ESPN Extra
-http://181.78.105.146:8800/play/a07r
-#EXTINF:-1,ESPN HD
-http://181.78.105.146:8800/play/a053
+#EXTINF:-1 group-title="Bics Variados",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
 ###
-#EXTINF:-1,TyC Sports HD
-http://177.128.113.8:1/play/a09v
+#EXTINF:-1 group-title="Bics Variados",ACCN ESPN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 2 MX
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN 3 MX
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN US
+http://livex.pop-app.live/s4n/poplive/ch329/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",ESPN USA
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Fox Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",Fox Sa
+http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SA
+http://livex.pop-app.live/s4n/poplive/ch312/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SPORT MX
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SPORTS 2 MX
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",FOX SPORTS 3 MX
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 2 | HD
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 3
+http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS HD
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 2 HD
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",FOX SPORTS 3 HD
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", FOX DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+###
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN Extra  MX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 PE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 2 AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185666
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 2 MX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/21220
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Deportes SD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Extra BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/168997
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Deportes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19652
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/48540
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19495
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 3 ARG HD ►℗
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Sports 3 HD MEX
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/149063
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports AR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports ARG
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports 3 HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
+###
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 01 HD BACKUP HD
+http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 1 VIP HD
+http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 1 HD
+http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 2 #BACKUP01 HD
+http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 2 #BACKUP02 HD
+http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
+#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 3 HD
+http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
+###
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN Deportes
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+###
+#EXTINF:-1  group-title="Bics DEPORTES", Fox Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+###
+#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
+#EXTINF:-1  group-title="Bics DEPORTES", ESPN 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
+###
+#EXTINF:-1  group-title="Bics DEPORTES", FOX SPORTS PREMIUM SD
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
+###
+#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | FOX SPORTS 3 SD
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
 '''
 
 import requests
