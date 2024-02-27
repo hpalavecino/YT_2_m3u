@@ -265,8 +265,6 @@ http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 3
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1  group-title="Bics DEPORTES", ESPN 
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/26817
 #EXTINF:-1  group-title="Bics DEPORTES", ESPN 2
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1  group-title="Bics DEPORTES", ESPN 3
