@@ -67,13 +67,9 @@ http://181.78.23.26:45000/play/a037
 http://181.78.23.26:45000/play/a025
 #EXTINF:-1,ESPN CO
 http://181.78.23.26:45000/play/a02p
-#EXTINF:-1,TyC
-http://181.78.23.26:45000/play/a01k
 ###
 #EXTINF:-1,AMC HD
 http://38.43.132.86:8000/play/a02l/index.m3u8
-#EXTINF:-1,AZ Cinema HD
-http://38.43.132.86:8000/play/a02t/index.m3u8
 #EXTINF:-1,America TV HD
 http://38.43.132.86:8000/play/a02c/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -164,9 +160,6 @@ http://191.97.14.38:4000/play/a04u/index.m3u8
 #EXTINF:-1,TyC
 http://191.97.14.38:4000/play/a019/index.m3u8
 ###
-#EXTINF:-1,EVENTOS DEPORTIVOS
-http://45.5.119.155:8090/play/a057/index.m3u8
-###
 #EXTINF:-1,TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
 ###
@@ -195,11 +188,11 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/21229
 #EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 PE
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1  SD ►℗
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN ARG SD ►℗
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
 #EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 PE HD ►℗
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 HD
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN ARG HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
 #EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
@@ -231,7 +224,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/19496
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/9538
 #EXTINF:-1 group-title="Bics DEPORTES",DEP | SKY Sports 16 HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/149063
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports AR
+#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports CL
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
 #EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports ARG
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
@@ -255,9 +248,6 @@ http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
 ###
 #EXTINF:-1  group-title="Bics DEPORTES", ESPN Deportes
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
-###
-#EXTINF:-1  group-title="Bics DEPORTES", Fox Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
 ###
 #EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
