@@ -80,6 +80,11 @@ http://181.78.23.26:45000/play/a025
 #EXTINF:-1,ESPN CO
 http://181.78.23.26:45000/play/a02p
 ###
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT + EC" tvg-logo="" group-title="DEPORTE",DIRECTV SPORT + EC
+http://redima.pro:8880/MOREIRAL/9512/685
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN
+http://redima.pro:8880/MOREIRAL/9512/571
+###
 #EXTINF:-1,AMC HD
 http://38.43.132.86:8000/play/a02l/index.m3u8
 #EXTINF:-1,America TV HD
