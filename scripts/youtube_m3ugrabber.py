@@ -42,7 +42,15 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN Premium HD
+http://209.45.101.38:7500/play/a0bu
+#EXTINF:-1,TNT Sports HD
+http://209.45.101.38:7500/play/a0aw
+#EXTINF:-1,TYC Sports HD
+http://209.45.101.38:7500/play/a0au
+
+
+
 http://190.90.154.73:8080/play/a012/index.m3u8 
 #EXTINF:-1,ESPN 2 HD
 http://190.90.154.73:8080/play/a00y/index.m3u8
