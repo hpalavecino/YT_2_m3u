@@ -19,6 +19,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", America TV
+http://claymorej2.pinals.xyz:8080/TomasClicKTv/TKm9apZJ2qHP/81270
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TN
 #EXTVLCOPT:network-caching=1000
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -36,6 +38,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TELEFE
 http://200.115.120.1:8000/play/ca063/index.m3u8
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",TELEFE
+http://claymorej2.pinals.xyz:8080/TomasClicKTv/TKm9apZJ2qHP/81277
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
@@ -50,7 +54,7 @@ http://209.45.101.38:7500/play/a0aw
 http://209.45.101.38:7500/play/a0au
 
 
-
+#EXTINF:-1,ESPN ARG HD
 http://190.90.154.73:8080/play/a012/index.m3u8 
 #EXTINF:-1,ESPN 2 HD
 http://190.90.154.73:8080/play/a00y/index.m3u8
@@ -63,7 +67,7 @@ http://190.90.154.73:8080/play/a03f/index.m3u8
 #EXTINF:-1,TyC Sports
 http://190.90.154.73:8080/play/a062/index.m3u8
 ###
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN ARG
 http://181.78.23.26:45000/play/a01i
 #EXTINF:-1,ESPN 2
 http://181.78.23.26:45000/play/a00m
@@ -151,7 +155,7 @@ http://38.43.132.86:8000/play/a02e/index.m3u8
 ################################################
 ################################################
 
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN ARG
 http://191.97.14.38:4000/play/a017/index.m3u8
 #EXTINF:-1,ESPN 2 Latin
 http://191.97.14.38:4000/play/a016/index.m3u8
@@ -161,10 +165,8 @@ http://191.97.14.38:4000/play/a027/index.m3u8
 http://191.97.14.38:4000/play/a04d/index.m3u8
 #EXTINF:-1,ESPN CO
 http://191.97.14.38:4000/play/a01p/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN ARG HD
 http://191.97.14.38:4000/play/a04g/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://191.97.14.38:4000/play/a04u/index.m3u8
 #EXTINF:-1,TyC
 http://191.97.14.38:4000/play/a019/index.m3u8
 ###
@@ -241,28 +243,8 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
 #EXTINF:-1 group-title="Bics DEPORTES",DEP | TYC Sports Internacional HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
 ###
-#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 01 HD BACKUP HD
-http://936261971205770907.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770907.ts
-#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 1 VIP HD
-http://936261971205770908.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770908.ts
-#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 1 HD
-http://936261971205770909.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770909.ts
-#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 2 #BACKUP01 HD
-http://936261971205770910.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770910.ts
-#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 2 #BACKUP02 HD
-http://936261971205770911.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770911.ts
-#EXTINF:-1  group-title="Bics DEPORTES", US: ESPN 3 HD
-http://936261971205770912.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/770912.ts
-###
-#EXTINF:-1  group-title="Bics DEPORTES", ESPN Deportes
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
-###
 #EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 3
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1  group-title="Bics DEPORTES", ESPN 2
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1  group-title="Bics DEPORTES", ESPN 3
@@ -271,7 +253,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 #EXTINF:-1  group-title="Bics DEPORTES", FOX SPORTS PREMIUM SD
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/252733
 ###
-#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", SUD | FOX SPORTS 3 SD
+#EXTINF:-1 #EXTINF:-1  group-title="Bics DEPORTES", FOX SPORTS 3 SD
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/981
 '''
 
