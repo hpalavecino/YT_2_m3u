@@ -19,8 +19,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", America TV
-http://claymorej2.pinals.xyz:8080/TomasClicKTv/TKm9apZJ2qHP/81270
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TN
 #EXTVLCOPT:network-caching=1000
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
