@@ -39,33 +39,49 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TELEFE
 http://200.115.120.1:8000/play/ca063/index.m3u8
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",TELEFE
-http://claymorej2.pinals.xyz:8080/TomasClicKTv/TKm9apZJ2qHP/81277
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3536
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 #########################################################################
 
+#EXTINF:-1,ESPN Premium FHD
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148460
 #EXTINF:-1,ESPN Premium HD
-http://209.45.101.38:7500/play/a0bu
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148461
+#EXTINF:-1,ESPN Premium HD
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/151113
 #EXTINF:-1,TNT Sports HD
-http://209.45.101.38:7500/play/a0aw
-#EXTINF:-1,TYC Sports HD
-http://209.45.101.38:7500/play/a0au
-
-
-#EXTINF:-1,ESPN ARG HD
-http://190.90.154.73:8080/play/a012/index.m3u8 
-#EXTINF:-1,ESPN 2 HD
-http://190.90.154.73:8080/play/a00y/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.90.154.73:8080/play/a01x/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://190.90.154.73:8080/play/a02s/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://190.90.154.73:8080/play/a03f/index.m3u8
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/131980
+#EXTINF:-1,TNT Sports HD
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132285
+#EXTINF:-1,TNT Sports FHD
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148458
+#EXTINF:-1,TNT Sports HD
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148459
+#EXTINF:-1,TNT Sports UHD
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2688
 #EXTINF:-1,TyC Sports
-http://190.90.154.73:8080/play/a062/index.m3u8
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4945
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132284
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145440
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145441
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148455
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148456
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148457
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/133844
+#EXTINF:-1,TyC Sports
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/137121
+#EXTINF:-1,ESPN
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2823
 ###
 #EXTINF:-1,ESPN ARG
 http://181.78.23.26:45000/play/a01i
@@ -81,14 +97,12 @@ http://181.78.23.26:45000/play/a025
 http://181.78.23.26:45000/play/a02p
 ###
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT + EC" tvg-logo="" group-title="DEPORTE",DIRECTV SPORT + EC
-http://redima.pro:8880/MOREIRAL/9512/685
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135642
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN
 http://redima.pro:8880/MOREIRAL/9512/571
 ###
 #EXTINF:-1,AMC HD
 http://38.43.132.86:8000/play/a02l/index.m3u8
-#EXTINF:-1,America TV HD
-http://38.43.132.86:8000/play/a02c/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://38.43.132.86:8000/play/a02v/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -101,16 +115,10 @@ http://38.43.132.86:8000/play/a032/index.m3u8
 http://38.43.132.86:8000/play/a033/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://38.43.132.86:8000/play/a02j/index.m3u8
-#EXTINF:-1,E! HD
-http://38.43.132.86:8000/play/a029/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
 http://38.43.132.86:8000/play/a02m/index.m3u8
 #EXTINF:-1,ESPN HD
 http://38.43.132.86:8000/play/a028/index.m3u8
-#EXTINF:-1,Food Network HD
-http://38.43.132.86:8000/play/a02b/index.m3u8
-#EXTINF:-1,GOLPERU HD
-http://38.43.132.86:8000/play/a02f/index.m3u8
 #EXTINF:-1,Golden HD
 http://38.43.132.86:8000/play/a026/index.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -123,18 +131,10 @@ http://38.43.132.86:8000/play/a02n/index.m3u8
 http://38.43.132.86:8000/play/a036/index.m3u8
 #EXTINF:-1,History 2 HD
 http://38.43.132.86:8000/play/a034/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://38.43.132.86:8000/play/a02o/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://38.43.132.86:8000/play/a031/index.m3u8
-#EXTINF:-1,Latina HD
-http://38.43.132.86:8000/play/a02d/index.m3u8
-#EXTINF:-1,Lolly Kids HD
-http://38.43.132.86:8000/play/a02x/index.m3u8
 #EXTINF:-1,Love Nature HD
 http://38.43.132.86:8000/play/a02y/index.m3u8
-#EXTINF:-1,MTV HD
-http://38.43.132.86:8000/play/a030/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://38.43.132.86:8000/play/a025/index.m3u8
 #EXTINF:-1,Nat Geo HD
@@ -149,10 +149,6 @@ http://38.43.132.86:8000/play/a02a/index.m3u8
 http://38.43.132.86:8000/play/a02r/index.m3u8
 #EXTINF:-1,TNT Novelas HD
 http://38.43.132.86:8000/play/a02w/index.m3u8
-#EXTINF:-1,TV+ HD
-http://38.43.132.86:8000/play/a02h/index.m3u8
-#EXTINF:-1,Telehit HD
-http://38.43.132.86:8000/play/a027/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://38.43.132.86:8000/play/a02e/index.m3u8
 
