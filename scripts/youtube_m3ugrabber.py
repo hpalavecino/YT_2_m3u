@@ -44,6 +44,8 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 
+ARG: LISTA DE PARTIDOS DE FOOTBALL EN VIVO -
+http://magmas5.com:8000/vidal130884/461G2TP4DW/151826
 #EXTINF:-1,ESPN Premium FHD
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148460
 #EXTINF:-1,ESPN Premium HD
@@ -80,6 +82,27 @@ http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/133844
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/137121
 #EXTINF:-1,ESPN
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2823
+###
+ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/rances123/9IFBBCRBIX/131980
+ESPN PREMIUM HD
+http://magmas5.com:8000/rances123/9IFBBCRBIX/148461
+ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/rances123/9IFBBCRBIX/151113
+ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/vidal130884/461G2TP4DW/4938
+ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/vidal130884/461G2TP4DW/131980
+ARG: DIRECTV SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/vidal130884/461G2TP4DW/135642
+Sports | ESPN PREMIUM HD ARG
+http://magmas5.com:8000/vidal130884/461G2TP4DW/145417
+Sports | TNT SPORTS ARGENTINA HD
+http://magmas5.com:8000/vidal130884/461G2TP4DW/145442
+ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/vidal130884/461G2TP4DW/148455
+ARG: TyC SPORTS INTERNACIONAL
+http://magmas5.com:8000/vidal130884/461G2TP4DW/148457
 ###
 #EXTINF:-1,ESPN ARG
 http://181.78.23.26:45000/play/a01i
