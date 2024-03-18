@@ -47,6 +47,10 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtAFXhqZlx0W1HLQ_1UqPKGb6Gl
 #########################################################################
 #########################################################################
 
+#EXTINF:-1,EVENTOS STAR+ HD
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/152908
+#EXTINF:-1,ESPN STAR+ FHD (SOLO EVENTOS)
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/160069
 #EXTINF:-1,ESPN Premium 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148460
 #EXTINF:-1,ESPN Premium 1280x720
@@ -99,6 +103,16 @@ http://magmas5.com:8000/vidal130884/461G2TP4DW/135642
 #EXTINF:-1,TyC SPORTS INTERNACIONAL 1280x720
 http://magmas5.com:8000/vidal130884/461G2TP4DW/148457
 ###
+#EXTINF:-1,TNT SPORTS  1280x720
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/131980
+#EXTINF:-1,TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/132285
+#EXTINF:-1,TNT SPORTS
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/148459
+#EXTINF:-1,TNT SPORTS UHD ARG.
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/2688
+#EXTINF:-1,ESPN PREMIUM HD
+http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/148461
 #EXTINF:-1,ESPN ARG 1280x720
 http://181.78.23.26:45000/play/a01i
 ###
