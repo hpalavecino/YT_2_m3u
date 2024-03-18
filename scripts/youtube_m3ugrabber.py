@@ -47,80 +47,62 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtAFXhqZlx0W1HLQ_1UqPKGb6Gl
 #########################################################################
 #########################################################################
 
-#EXTINF:-1,ESPN Premium FHD
+#EXTINF:-1,ESPN Premium 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148460
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1,ESPN Premium 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148461
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1,ESPN Premium 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/151113
-#EXTINF:-1,TNT Sports HD
+#EXTINF:-1,TNT Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/131980
-#EXTINF:-1,TNT Sports HD
+#EXTINF:-1,TNT Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132285
-#EXTINF:-1,TNT Sports FHD
+#EXTINF:-1,TNT Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148458
-#EXTINF:-1,TNT Sports HD
+#EXTINF:-1,TNT Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148459
-#EXTINF:-1,TNT Sports UHD
+#EXTINF:-1,TNT Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2688
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4945
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132284
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145440
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145441
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148455
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148456
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148457
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/133844
-#EXTINF:-1,TyC Sports
+#EXTINF:-1,TyC Sports 1280x720
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/137121
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN 1920x1080
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2823
 ###
-#EXTINF:-1,TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1,TNT SPORTS  1280x720
 http://magmas5.com:8000/rances123/9IFBBCRBIX/131980
-#EXTINF:-1,ESPN PREMIUM HD
+#EXTINF:-1,ESPN PREMIUM  1280x720
 http://magmas5.com:8000/rances123/9IFBBCRBIX/148461
-#EXTINF:-1,ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+#EXTINF:-1,ESPN  1280x720
 http://magmas5.com:8000/rances123/9IFBBCRBIX/151113
-#EXTINF:-1,ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+#EXTINF:-1,ESPN 832x480
 http://magmas5.com:8000/vidal130884/461G2TP4DW/4938
-#EXTINF:-1,TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1,TNT SPORTS 1280x720
 http://magmas5.com:8000/vidal130884/461G2TP4DW/131980
-#EXTINF:-1,DIRECTV SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+#EXTINF:-1,DIRECTV SPORTS 1280x720
 http://magmas5.com:8000/vidal130884/461G2TP4DW/135642
-#EXTINF:-1,ESPN PREMIUM HD ARG
-http://magmas5.com:8000/vidal130884/461G2TP4DW/145417
-#EXTINF:-1,TNT SPORTS ARGENTINA HD
-http://magmas5.com:8000/vidal130884/461G2TP4DW/145442
-#EXTINF:-1,TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/vidal130884/461G2TP4DW/148455
-#EXTINF:-1,TyC SPORTS INTERNACIONAL
+#EXTINF:-1,TyC SPORTS INTERNACIONAL 1280x720
 http://magmas5.com:8000/vidal130884/461G2TP4DW/148457
 ###
-#EXTINF:-1,ESPN ARG
+#EXTINF:-1,ESPN ARG 1280x720
 http://181.78.23.26:45000/play/a01i
-#EXTINF:-1,ESPN 2
-http://181.78.23.26:45000/play/a00m
-#EXTINF:-1,ESPN 2 Latin
-http://181.78.23.26:45000/play/a01h
-#EXTINF:-1,ESPN 3
-http://181.78.23.26:45000/play/a037
-#EXTINF:-1,ESPN 4
-http://181.78.23.26:45000/play/a025
-#EXTINF:-1,ESPN CO
-http://181.78.23.26:45000/play/a02p
 ###
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT + EC" tvg-logo="" group-title="DEPORTE",DIRECTV SPORT + EC
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135642
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN
+#EXTINF:-1,ESPN
 http://redima.pro:8880/MOREIRAL/9512/571
 ###
 #EXTINF:-1,AMC HD
@@ -177,66 +159,10 @@ http://38.43.132.86:8000/play/a02e/index.m3u8
 ################################################
 ################################################
 ################################################
-
-#EXTINF:-1,ESPN ARG
-http://191.97.14.38:4000/play/a017/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://191.97.14.38:4000/play/a016/index.m3u8
-#EXTINF:-1,ESPN 3
-http://191.97.14.38:4000/play/a027/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://191.97.14.38:4000/play/a04d/index.m3u8
-#EXTINF:-1,ESPN CO
-http://191.97.14.38:4000/play/a01p/index.m3u8
-#EXTINF:-1,ESPN ARG HD
-http://191.97.14.38:4000/play/a04g/index.m3u8
-#EXTINF:-1,TyC
-http://191.97.14.38:4000/play/a019/index.m3u8
-###
-#EXTINF:-1,TyCSports HD
+#EXTINF:-1,TyCSports 1920x1080
 http://45.166.92.22:58001/play/a04d/index.m3u8
-###
-#EXTINF:-1,ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.78.105.146:2000/play/a03n/index.m3u8
-###
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN 544x480
 http://181.78.105.146:6060/play/a036
-#EXTINF:-1,ESPN 2
-http://181.78.105.146:6060/play/a037
-#EXTINF:-1,ESPN 3
-http://181.78.105.146:6060/play/a00x
-###
-#EXTINF:-1 group-title="Bics Variados",ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN3
-http://181.78.105.146:2000/play/a03n/index.m3u8
-###
-#EXTINF:-1 group-title="Bics DEPORTES", ESPN 1 PE
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/220727
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN ARG SD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219173
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 PE HD ►℗
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219172
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN ARG HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/219171
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN 1 MX SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | ESPN Deportes SD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/54094
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | FOX Deportes
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36396
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TNT Sports ARG
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
-#EXTINF:-1 group-title="Bics DEPORTES",DEP | TYC Sports Internacional HD
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
 ###
 '''
 
