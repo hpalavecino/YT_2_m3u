@@ -40,12 +40,13 @@ http://200.115.120.1:8000/play/ca063/index.m3u8
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3536
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 tvg-id="IPTV" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",IPTV
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtAFXhqZlx0W1HLQ_1UqPKGb6Gl1n1EmIttX3nXxek08FoyMUSQ0TM-K-Eu7W4d-qJd7Q0lS7Z9DYI1ll88ii6CuCAu7kxO5k4Clxr_CU0roc3Bljt6TpDylS5zw_y8WCHVDvYvx-asAYTb9EWGbPoAKsZxlk5jhxNk8ti5XvQdaXMgZElXz4epEOA4_BbtbgItn3I9jQug9Lm2xm9mBumcP7iYcfpZQ6p-91-LYZV-I7nOiu3_tod2ZufbRg5D2XxPwMrEHsnDcRJhby5Te2qbSOI284zpOH9PV6J2P5TqkxYhGPyLJVZ3BFPyDqsUtWp6_2JrOJSpXC264emTm70T_ulFywNEM8pi53px4DLSkJ_9SbFn-vQVHvl1_xOtTHgZxhncuw6Yqq_LGTUW5UzuL8aNtkgySO-wJmElOim0PAIJNCWFQbeyvpdEGxhc3JbmYPqJELCgjybgFQugJjAOKpi-fu0n4LArngTxCV0p12sX6KJxnaVa7H2t4Dsseo4SgERNMDrTz8C3RdCCm7T9YKJLQmKnIxJjapCr0qcICh4grj1ogDKJtdPY0ghr3VkdY0_e0UltAAFmQS8MyjSWoyhQS340xPaVALoJ5PUEwna5eEF_ZVTbkNfp_9X68F-DvEV9M_FNobWtxhDHzUxMweekxDRQDGIyJQz9piQ04FX6UOZ2nyBJyOsls82v_RDVQbQ1ZqJA1bpnS7_Muo8ZrgFB3DSQsv4_o7sFlXlCFjDLgpe1Arfghm57qhq-EyIgvJ8qDEwhuTkXzzBcOVD6kzdct0UsfS7hVTw09OMjvraj4FVcHm0pXGemW1XXWtmKQWA2NunSW8jZxoGEoO0uwarAQVbIxvys62zrgMpE08t4pGjCliruTXB_jH1pT7Qe1LZGcPrmnoMstEnu3ciTiyvFznoAxzI6FJzR2XmEEcfTDMw7Zs9p7jtDXwQU6N7MVGgzp6tu_81VyqZj55UQgASoJdXMtZWFzdC0xMLIH.m3u8
+
 #########################################################################
 #########################################################################
 #########################################################################
 
-ARG: LISTA DE PARTIDOS DE FOOTBALL EN VIVO -
-http://magmas5.com:8000/vidal130884/461G2TP4DW/151826
 #EXTINF:-1,ESPN Premium FHD
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148460
 #EXTINF:-1,ESPN Premium HD
@@ -83,25 +84,25 @@ http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/137121
 #EXTINF:-1,ESPN
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2823
 ###
-ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1,TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://magmas5.com:8000/rances123/9IFBBCRBIX/131980
-ESPN PREMIUM HD
+#EXTINF:-1,ESPN PREMIUM HD
 http://magmas5.com:8000/rances123/9IFBBCRBIX/148461
-ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+#EXTINF:-1,ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
 http://magmas5.com:8000/rances123/9IFBBCRBIX/151113
-ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+#EXTINF:-1,ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://magmas5.com:8000/vidal130884/461G2TP4DW/4938
-ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+#EXTINF:-1,TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://magmas5.com:8000/vidal130884/461G2TP4DW/131980
-ARG: DIRECTV SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
+#EXTINF:-1,DIRECTV SPORTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://magmas5.com:8000/vidal130884/461G2TP4DW/135642
-Sports | ESPN PREMIUM HD ARG
+#EXTINF:-1,ESPN PREMIUM HD ARG
 http://magmas5.com:8000/vidal130884/461G2TP4DW/145417
-Sports | TNT SPORTS ARGENTINA HD
+#EXTINF:-1,TNT SPORTS ARGENTINA HD
 http://magmas5.com:8000/vidal130884/461G2TP4DW/145442
-ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+#EXTINF:-1,TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
 http://magmas5.com:8000/vidal130884/461G2TP4DW/148455
-ARG: TyC SPORTS INTERNACIONAL
+#EXTINF:-1,TyC SPORTS INTERNACIONAL
 http://magmas5.com:8000/vidal130884/461G2TP4DW/148457
 ###
 #EXTINF:-1,ESPN ARG
