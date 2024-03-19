@@ -40,8 +40,6 @@ http://200.115.120.1:8000/play/ca063/index.m3u8
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3536
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-#EXTINF:-1 tvg-id="IPTV" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",IPTV
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtAFXhqZlx0W1HLQ_1UqPKGb6Gl1n1EmIttX3nXxek08FoyMUSQ0TM-K-Eu7W4d-qJd7Q0lS7Z9DYI1ll88ii6CuCAu7kxO5k4Clxr_CU0roc3Bljt6TpDylS5zw_y8WCHVDvYvx-asAYTb9EWGbPoAKsZxlk5jhxNk8ti5XvQdaXMgZElXz4epEOA4_BbtbgItn3I9jQug9Lm2xm9mBumcP7iYcfpZQ6p-91-LYZV-I7nOiu3_tod2ZufbRg5D2XxPwMrEHsnDcRJhby5Te2qbSOI284zpOH9PV6J2P5TqkxYhGPyLJVZ3BFPyDqsUtWp6_2JrOJSpXC264emTm70T_ulFywNEM8pi53px4DLSkJ_9SbFn-vQVHvl1_xOtTHgZxhncuw6Yqq_LGTUW5UzuL8aNtkgySO-wJmElOim0PAIJNCWFQbeyvpdEGxhc3JbmYPqJELCgjybgFQugJjAOKpi-fu0n4LArngTxCV0p12sX6KJxnaVa7H2t4Dsseo4SgERNMDrTz8C3RdCCm7T9YKJLQmKnIxJjapCr0qcICh4grj1ogDKJtdPY0ghr3VkdY0_e0UltAAFmQS8MyjSWoyhQS340xPaVALoJ5PUEwna5eEF_ZVTbkNfp_9X68F-DvEV9M_FNobWtxhDHzUxMweekxDRQDGIyJQz9piQ04FX6UOZ2nyBJyOsls82v_RDVQbQ1ZqJA1bpnS7_Muo8ZrgFB3DSQsv4_o7sFlXlCFjDLgpe1Arfghm57qhq-EyIgvJ8qDEwhuTkXzzBcOVD6kzdct0UsfS7hVTw09OMjvraj4FVcHm0pXGemW1XXWtmKQWA2NunSW8jZxoGEoO0uwarAQVbIxvys62zrgMpE08t4pGjCliruTXB_jH1pT7Qe1LZGcPrmnoMstEnu3ciTiyvFznoAxzI6FJzR2XmEEcfTDMw7Zs9p7jtDXwQU6N7MVGgzp6tu_81VyqZj55UQgASoJdXMtZWFzdC0xMLIH.m3u8
 
 #########################################################################
 #########################################################################
@@ -119,60 +117,42 @@ http://181.78.23.26:45000/play/a01i
 #EXTINF:-1,ESPN
 http://redima.pro:8880/MOREIRAL/9512/571
 ###
-#EXTINF:-1,AMC HD
-http://38.43.132.86:8000/play/a02l/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://38.43.132.86:8000/play/a02v/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://38.43.132.86:8000/play/a02p/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://38.43.132.86:8000/play/a02k/index.m3u8
-#EXTINF:-1,DHE HD
-http://38.43.132.86:8000/play/a032/index.m3u8
-#EXTINF:-1,Discovery HD
-http://38.43.132.86:8000/play/a033/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://38.43.132.86:8000/play/a02j/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://38.43.132.86:8000/play/a02m/index.m3u8
+#EXTINF:-1,ESPN
+http://45.65.137.206:8000/play/a0gb/index.m3u8
+#EXTINF:-1,History Channel
+http://45.65.137.206:8000/play/a0fa/index.m3u8
+###
+#EXTINF:-1,ESPN
+http://45.228.234.210:4000/play/a00r/index.m3u8
+#EXTINF:-1,H2
+http://45.228.234.210:4000/play/a02b/index.m3u8
+###
 #EXTINF:-1,ESPN HD
-http://38.43.132.86:8000/play/a028/index.m3u8
-#EXTINF:-1,Golden HD
-http://38.43.132.86:8000/play/a026/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://38.43.132.86:8000/play/a02u/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://38.43.132.86:8000/play/a035/index.m3u8
-#EXTINF:-1,HBO HD
-http://38.43.132.86:8000/play/a02n/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://38.43.132.86:8000/play/a036/index.m3u8
+http://204.199.119.6:1012/play/a04h
+#EXTINF:-1,HBO
+http://204.199.119.6:1012/play/a09y
 #EXTINF:-1,History 2 HD
-http://38.43.132.86:8000/play/a034/index.m3u8
-#EXTINF:-1,Las Estrellas HD
-http://38.43.132.86:8000/play/a031/index.m3u8
-#EXTINF:-1,Love Nature HD
-http://38.43.132.86:8000/play/a02y/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://38.43.132.86:8000/play/a025/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://38.43.132.86:8000/play/a02i/index.m3u8
+http://204.199.119.6:1012/play/a01u
 #EXTINF:-1,Paramount HD
-http://38.43.132.86:8000/play/a02q/index.m3u8
-#EXTINF:-1,STAR TVE HD
-http://38.43.132.86:8000/play/a02s/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
-http://38.43.132.86:8000/play/a02a/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://38.43.132.86:8000/play/a02r/index.m3u8
-#EXTINF:-1,TNT Novelas HD
-http://38.43.132.86:8000/play/a02w/index.m3u8
+http://204.199.119.6:1012/play/a019
+###
+#EXTINF:-1,ESPN HD
+http://181.78.208.237:8000/play/a01k/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.78.208.237:8000/play/a028/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.78.208.237:8000/play/a00j/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://181.78.208.237:8000/play/a02x/index.m3u8
 #EXTINF:-1,TyC Sports HD
-http://38.43.132.86:8000/play/a02e/index.m3u8
-
-################################################
-################################################
-################################################
+http://181.78.208.237:8000/play/a02f/index.m3u8
+#EXTINF:-1,ESPN
+http://181.78.27.128:8000/play/a03q/index.m3u8
+#EXTINF:-1,HBO
+http://181.78.27.128:8000/play/a030/index.m3u8
+#EXTINF:-1,HBO Family
+http://181.78.27.128:8000/play/a029/index.m3u8
+###
 #EXTINF:-1,TyCSports 1920x1080
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1,ESPN 544x480
