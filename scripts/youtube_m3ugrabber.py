@@ -45,7 +45,26 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 
-#EXTINF:-1,EVENTOS STAR+ HD
+#EXTINF:-1,Espn 1 ARG (TV)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166827
+#EXTINF:-1,Espn Premium ARG (L)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154050
+#EXTINF:-1,Directv Sports 1 (ARG) (X)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/4668
+#EXTINF:-1,TyC Sports INT (TV)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2076
+#EXTINF:-1,TyC Sports INT (T)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/27530
+#EXTINF:-1,ARG-TNT Sports (L)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/309414
+#EXTINF:-1,ARG-TNT Sports (X)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153802
+#EXTINF:-1,ARG-TYC Sports Local (X)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22127
+#EXTINF:-1,ARG-TyC Sports Local (L)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59813
+###
+#EXTINF:-1,#EXTINF:-1,EVENTOS STAR+ HD
 http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/152908
 #EXTINF:-1,ESPN STAR+ FHD (SOLO EVENTOS)
 http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/160069
