@@ -49,6 +49,10 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166827
 #EXTINF:-1,Espn Premium ARG (L)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154050
+#EXTINF:-1,Espn Premium ARG (X)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154049
+#EXTINF:-1,ESPN Premium ARG (X)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1528
 #EXTINF:-1,Directv Sports 1 (ARG) (X)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/4668
 #EXTINF:-1,TyC Sports INT (TV)(720)
