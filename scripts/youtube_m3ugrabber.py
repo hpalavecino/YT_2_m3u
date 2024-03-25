@@ -34,10 +34,14 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TyC
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TyC
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TELEFE
 http://200.115.120.1:8000/play/ca063/index.m3u8
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",TELEFE
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3536
+#EXTINF:-1,TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 
@@ -45,6 +49,33 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 
+#EXTINF:-1,Low | ESPN (Low)
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/3851
+#EXTINF:-1,ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/4938
+#EXTINF:-1,ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/151113
+#EXTINF:-1,ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/131980
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | TNT SPORTS
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/132285
+#EXTINF:-1,ARG: TNT SPORTS FHD
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148458
+#EXTINF:-1,ARG: TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148459
+#EXTINF:-1,Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TNT SPORTS UHD ARG.
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/2688
+#EXTINF:-1,ARG: TYC SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/125863
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ  | TYC SPORTS
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/132284
+#EXTINF:-1,ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148456
+#EXTINF:-1,ARG: TyC SPORTS INTERNACIONAL
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148457
+#EXTINF:-1,Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS
+http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/137121
+###
 #EXTINF:-1,Espn 1 ARG (TV)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166827
 #EXTINF:-1,Espn Premium ARG (L)(720)
@@ -159,16 +190,6 @@ http://204.199.119.6:1012/play/a01u
 #EXTINF:-1,Paramount HD
 http://204.199.119.6:1012/play/a019
 ###
-#EXTINF:-1,ESPN HD
-http://181.78.208.237:8000/play/a01k/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.208.237:8000/play/a028/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.208.237:8000/play/a00j/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://181.78.208.237:8000/play/a02x/index.m3u8
-#EXTINF:-1,TyC Sports HD
-http://181.78.208.237:8000/play/a02f/index.m3u8
 #EXTINF:-1,ESPN
 http://181.78.27.128:8000/play/a03q/index.m3u8
 #EXTINF:-1,HBO
