@@ -58,6 +58,15 @@ http://budtvlight.com:25461/bud-1883584/ac2a351b3d/46603
 http://budtvlight.com:25461/bud-1883584/ac2a351b3d/69636
 ###
 #EXTINF:-1,Low | ESPN (Low)
+http://magmas5.com:8000/LIRestream/C18FXWEJBF/3851
+#EXTINF:-1,ARG: ESPN PREMIUM HD
+http://magmas5.com:8000/LIRestream/C18FXWEJBF/148461
+#EXTINF:-1,ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/LIRestream/C18FXWEJBF/131980
+#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | TNT SPORTS
+http://magmas5.com:8000/LIRestream/C18FXWEJBF/132285
+###
+#EXTINF:-1,Low | ESPN (Low)
 http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/3851
 #EXTINF:-1,ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/4938
