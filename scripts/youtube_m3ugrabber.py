@@ -48,7 +48,15 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #########################################################################
 #########################################################################
 #########################################################################
-
+#EXTINF:-1,ES-PN Premium (AR) (i)
+http://budtvlight.com:25461/bud-1883584/ac2a351b3d/38746
+#EXTINF:-1,ES-PN | AR (i)
+http://budtvlight.com:25461/bud-1883584/ac2a351b3d/37817
+#EXTINF:-1,TyC Sports HD (i)
+http://budtvlight.com:25461/bud-1883584/ac2a351b3d/46603
+#EXTINF:-1,TYC Sports Internacional
+http://budtvlight.com:25461/bud-1883584/ac2a351b3d/69636
+###
 #EXTINF:-1,Low | ESPN (Low)
 http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/3851
 #EXTINF:-1,ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
