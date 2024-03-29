@@ -47,7 +47,16 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 
 #########################################################################
 #########################################################################
-#########################################################################
+##########################################################################
+#EXTINF:-1,ESPN 1
+http://177.128.115.21:8080/live/Binet/6UkGawEA4z/36.ts
+#EXTINF:-1,ESPN Premium
+http://177.128.115.21:8080/live/Binet/6UkGawEA4z/109.ts
+#EXTINF:-1,TNT Sports
+http://177.128.115.21:8080/live/Binet/6UkGawEA4z/111.ts
+#EXTINF:-1,TyC Sports
+http://177.128.115.21:8080/live/Binet/6UkGawEA4z/174.ts
+###
 #EXTINF:-1,ES-PN Premium (AR) (i)
 http://budtvlight.com:25461/bud-1883584/ac2a351b3d/38746
 #EXTINF:-1,ES-PN | AR (i)
