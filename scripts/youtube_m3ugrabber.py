@@ -44,190 +44,34 @@ http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3536
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-
-#########################################################################
-#########################################################################
-##########################################################################
-#EXTINF:-1,ESPN 1
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/36.ts
-#EXTINF:-1,ESPN Premium
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/109.ts
-#EXTINF:-1,TNT Sports
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/111.ts
-#EXTINF:-1,TyC Sports
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/174.ts
 ###
-#EXTINF:-1,ES-PN Premium (AR) (i)
-http://budtvlight.com:25461/bud-1883584/ac2a351b3d/38746
-#EXTINF:-1,ES-PN | AR (i)
-http://budtvlight.com:25461/bud-1883584/ac2a351b3d/37817
-#EXTINF:-1,TyC Sports HD (i)
-http://budtvlight.com:25461/bud-1883584/ac2a351b3d/46603
-#EXTINF:-1,TYC Sports Internacional
-http://budtvlight.com:25461/bud-1883584/ac2a351b3d/69636
-###
-#EXTINF:-1,Low | ESPN (Low)
-http://magmas5.com:8000/LIRestream/C18FXWEJBF/3851
-#EXTINF:-1,ARG: ESPN PREMIUM HD
-http://magmas5.com:8000/LIRestream/C18FXWEJBF/148461
-#EXTINF:-1,ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://magmas5.com:8000/LIRestream/C18FXWEJBF/131980
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | TNT SPORTS
-http://magmas5.com:8000/LIRestream/C18FXWEJBF/132285
-###
-#EXTINF:-1,Low | ESPN (Low)
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/3851
-#EXTINF:-1,ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/4938
-#EXTINF:-1,ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/151113
-#EXTINF:-1,ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/131980
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ | TNT SPORTS
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/132285
-#EXTINF:-1,ARG: TNT SPORTS FHD
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148458
-#EXTINF:-1,ARG: TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148459
-#EXTINF:-1,Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TNT SPORTS UHD ARG.
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/2688
-#EXTINF:-1,ARG: TYC SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/125863
-#EXTINF:-1,Sᴘᴏʀᴛs Sᴰᵀ  | TYC SPORTS
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/132284
-#EXTINF:-1,ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148456
-#EXTINF:-1,ARG: TyC SPORTS INTERNACIONAL
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/148457
-#EXTINF:-1,Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS
-http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/137121
-###
-#EXTINF:-1,Espn 1 ARG (TV)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166827
-#EXTINF:-1,Espn Premium ARG (L)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154050
-#EXTINF:-1,Espn Premium ARG (X)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154049
-#EXTINF:-1,ESPN Premium ARG (X)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1528
-#EXTINF:-1,Directv Sports 1 (ARG) (X)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/4668
-#EXTINF:-1,TyC Sports INT (TV)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/2076
-#EXTINF:-1,TyC Sports INT (T)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/27530
-#EXTINF:-1,ARG-TNT Sports (L)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/309414
-#EXTINF:-1,ARG-TNT Sports (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153802
-#EXTINF:-1,ARG-TYC Sports Local (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22127
-#EXTINF:-1,ARG-TyC Sports Local (L)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59813
-###
-#EXTINF:-1,#EXTINF:-1,EVENTOS STAR+ HD
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/152908
-#EXTINF:-1,ESPN STAR+ FHD (SOLO EVENTOS)
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/160069
-#EXTINF:-1,ESPN Premium 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148460
-#EXTINF:-1,ESPN Premium 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148461
-#EXTINF:-1,ESPN Premium 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/151113
-#EXTINF:-1,TNT Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/131980
-#EXTINF:-1,TNT Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132285
-#EXTINF:-1,TNT Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148458
-#EXTINF:-1,TNT Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148459
-#EXTINF:-1,TNT Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2688
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4945
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132284
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145440
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/145441
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148455
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148456
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148457
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/133844
-#EXTINF:-1,TyC Sports 1280x720
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/137121
-#EXTINF:-1,ESPN 1920x1080
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/2823
-###
-#EXTINF:-1,TNT SPORTS  1280x720
-http://magmas5.com:8000/rances123/9IFBBCRBIX/131980
-#EXTINF:-1,ESPN PREMIUM  1280x720
-http://magmas5.com:8000/rances123/9IFBBCRBIX/148461
-#EXTINF:-1,ESPN  1280x720
-http://magmas5.com:8000/rances123/9IFBBCRBIX/151113
-#EXTINF:-1,ESPN 832x480
-http://magmas5.com:8000/vidal130884/461G2TP4DW/4938
-#EXTINF:-1,TNT SPORTS 1280x720
-http://magmas5.com:8000/vidal130884/461G2TP4DW/131980
-#EXTINF:-1,DIRECTV SPORTS 1280x720
-http://magmas5.com:8000/vidal130884/461G2TP4DW/135642
-#EXTINF:-1,TyC SPORTS INTERNACIONAL 1280x720
-http://magmas5.com:8000/vidal130884/461G2TP4DW/148457
-###
-#EXTINF:-1,TNT SPORTS  1280x720
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/131980
-#EXTINF:-1,TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/132285
-#EXTINF:-1,TNT SPORTS
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/148459
-#EXTINF:-1,TNT SPORTS UHD ARG.
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/2688
-#EXTINF:-1,ESPN PREMIUM HD
-http://magmas5.com:8000/1724T3XM15/G1V1DURAQR/148461
-#EXTINF:-1,ESPN ARG 1280x720
-http://181.78.23.26:45000/play/a01i
-###
-#EXTINF:-1,ESPN
-http://redima.pro:8880/MOREIRAL/9512/571
-###
-#EXTINF:-1,ESPN
-http://45.65.137.206:8000/play/a0gb/index.m3u8
-#EXTINF:-1,History Channel
-http://45.65.137.206:8000/play/a0fa/index.m3u8
-###
-#EXTINF:-1,ESPN
-http://45.228.234.210:4000/play/a00r/index.m3u8
-#EXTINF:-1,H2
-http://45.228.234.210:4000/play/a02b/index.m3u8
-###
-#EXTINF:-1,ESPN HD
-http://204.199.119.6:1012/play/a04h
-#EXTINF:-1,HBO
-http://204.199.119.6:1012/play/a09y
-#EXTINF:-1,History 2 HD
-http://204.199.119.6:1012/play/a01u
-#EXTINF:-1,Paramount HD
-http://204.199.119.6:1012/play/a019
-###
-#EXTINF:-1,ESPN
-http://181.78.27.128:8000/play/a03q/index.m3u8
-#EXTINF:-1,HBO
-http://181.78.27.128:8000/play/a030/index.m3u8
-#EXTINF:-1,HBO Family
-http://181.78.27.128:8000/play/a029/index.m3u8
-###
-#EXTINF:-1,TyCSports 1920x1080
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1,ESPN 544x480
-http://181.78.105.146:6060/play/a036
-###
+#EXTINF:-1,ESPN 1 ARGENTINA FULL HD
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/242596
+#EXTINF:-1,││ARG││ ESPN PREMIUM [SD]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/99
+#EXTINF:-1,││ARG││  TNT SPORTS ARGENTINA [HD]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/147
+#EXTINF:-1,││ARG││  TNT SPORTS ARGENTINA [FHD]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/386
+#EXTINF:-1,││ARG││ TYC SPORTS [HD1]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/267
+#EXTINF:-1,││ARG││  TYC SPORTS ARGENTINA  [HD] (N)
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/148
+#EXTINF:-1,││ARG││ TYC SPORTS OPC1 [HD] (N)
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/26868
+#EXTINF:-1,││ARG││  TYC SPORTS HD (OPC)
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/27864
+#EXTINF:-1,││ARG││ FOX SPORTS (OPC) [HD] 
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/27860
+#EXTINF:-1,││ARG││ FOX SPORTS ARGENTINA [FHD] (N)
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/144
+#EXTINF:-1,││CULT HD││ H2 
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/164
+#EXTINF:-1,││CINE HD││ DISNEY
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/112
+#EXTINF:-1,││CINE HD││PARAMOUT (N)
+ http://restreamus.com:8080/play2022/XASFqNvz3ThB/123
+ ###
 '''
 
 import requests
