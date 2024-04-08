@@ -56,22 +56,53 @@ http://restreamus.com:8080/play2022/XASFqNvz3ThB/386
 #EXTINF:-1,││ARG││ TYC SPORTS [HD1]
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/267
 #EXTINF:-1,││ARG││  TYC SPORTS ARGENTINA  [HD] (N)
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/148
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/148
 #EXTINF:-1,││ARG││ TYC SPORTS OPC1 [HD] (N)
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/26868
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/26868
 #EXTINF:-1,││ARG││  TYC SPORTS HD (OPC)
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/27864
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/27864
 #EXTINF:-1,││ARG││ FOX SPORTS (OPC) [HD] 
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/27860
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/27860
 #EXTINF:-1,││ARG││ FOX SPORTS ARGENTINA [FHD] (N)
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/144
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/144
 #EXTINF:-1,││CULT HD││ H2 
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/164
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/164
 #EXTINF:-1,││CINE HD││ DISNEY
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/112
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/112
 #EXTINF:-1,││CINE HD││PARAMOUT (N)
- http://restreamus.com:8080/play2022/XASFqNvz3ThB/123
- ###
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/123
+###
+SP: ARG: ESPN 1 SD
+http://62.4.15.182:8880/agos201910/661619291/317178
+SP: ARG: ESPN 1 HD
+http://62.4.15.182:8880/agos201910/661619291/317179
+SP: ARG: ESPN 1 FHD
+http://62.4.15.182:8880/agos201910/661619291/317180
+SP: ARG: ESPN Premium SD
+http://62.4.15.182:8880/agos201910/661619291/317189
+SP: ARG: ESPN Premium HD
+http://62.4.15.182:8880/agos201910/661619291/317190
+SP: ARG: ESPN Premium FHD
+http://62.4.15.182:8880/agos201910/661619291/317191
+SP: ARG: TyC Sports Internacional SD
+http://62.4.15.182:8880/agos201910/661619291/317173
+SP: ARG: TyC Sports Internacional HD
+http://62.4.15.182:8880/agos201910/661619291/317174
+SP: ARG: Directv Sports 1 HD
+http://62.4.15.182:8880/agos201910/661619291/317175
+SP: ARG: Fox Sports 1 SD
+http://62.4.15.182:8880/agos201910/661619291/317192
+SP: ARG: Fox Sports 1 HD
+http://62.4.15.182:8880/agos201910/661619291/317193
+SP: ARG: TNT Sports (Movil)
+http://62.4.15.182:8880/agos201910/661619291/317200
+SP: ARG: TNT Sports SD
+http://62.4.15.182:8880/agos201910/661619291/317201
+SP: ARG: TNT Sports HD
+http://62.4.15.182:8880/agos201910/661619291/317202
+SP: ARG: TNT Sports FHD
+http://62.4.15.182:8880/agos201910/661619291/317203
+###
 '''
 
 import requests
