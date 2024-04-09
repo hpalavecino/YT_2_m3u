@@ -45,63 +45,39 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 ###
-#EXTINF:-1,ESPN 1 ARGENTINA FULL HD
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/242596
-#EXTINF:-1,││ARG││ ESPN PREMIUM [SD]
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/99
-#EXTINF:-1,││ARG││  TNT SPORTS ARGENTINA [HD]
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/147
-#EXTINF:-1,││ARG││  TNT SPORTS ARGENTINA [FHD]
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/386
-#EXTINF:-1,││ARG││ TYC SPORTS [HD1]
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/267
-#EXTINF:-1,││ARG││  TYC SPORTS ARGENTINA  [HD] (N)
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/148
-#EXTINF:-1,││ARG││ TYC SPORTS OPC1 [HD] (N)
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/26868
-#EXTINF:-1,││ARG││  TYC SPORTS HD (OPC)
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/27864
-#EXTINF:-1,││ARG││ FOX SPORTS (OPC) [HD] 
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/27860
-#EXTINF:-1,││ARG││ FOX SPORTS ARGENTINA [FHD] (N)
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/144
-#EXTINF:-1,││CULT HD││ H2 
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/164
-#EXTINF:-1,││CINE HD││ DISNEY
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/112
-#EXTINF:-1,││CINE HD││PARAMOUT (N)
-http://restreamus.com:8080/play2022/XASFqNvz3ThB/123
+#EXTINF:-1,Fox Sports (PM)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/975
+#EXTINF:-1,Espn 1 ARG (X)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/69718
+#EXTINF:-1,Espn Premium ARG (X)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154049
+#EXTINF:-1,ESPN Premium ARG (X)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1528
+#EXTINF:-1,Directv Sports 1 (ARG) (X)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/4668
+#EXTINF:-1,ARG-TNT Sports (X)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153802
+#EXTINF:-1,ARG-TYC Sports Local (X)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22127
+#EXTINF:-1,Espn Premium ARG (L)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154050
+#EXTINF:-1,ESPN Premium ARG (L)(SD)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1529
+#EXTINF:-1,Fox Sports 1 ARG (L)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/141445
+#EXTINF:-1,ARG-TNT Sports (L)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/309414
+#EXTINF:-1,Espn 1 ARG (T)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166828
+#EXTINF:-1,TyC Sports INT (T)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/27530
+#EXTINF:-1,ARG-Fox Sports Premium (T)(1080)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
+#EXTINF:-1,HBO Family (X)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1034
+#EXTINF:-1,DOC-H2 (e)(720)
+http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1062
 ###
-#EXTINF:-1,SP: ARG: ESPN 1 SD
-http://62.4.15.182:8880/agos201910/661619291/317178
-#EXTINF:-1,SP: ARG: ESPN 1 HD
-http://62.4.15.182:8880/agos201910/661619291/317179
-#EXTINF:-1,SP: ARG: ESPN 1 FHD
-http://62.4.15.182:8880/agos201910/661619291/317180
-#EXTINF:-1,SP: ARG: ESPN Premium SD
-http://62.4.15.182:8880/agos201910/661619291/317189
-#EXTINF:-1,SP: ARG: ESPN Premium HD
-http://62.4.15.182:8880/agos201910/661619291/317190
-#EXTINF:-1,SP: ARG: ESPN Premium FHD
-http://62.4.15.182:8880/agos201910/661619291/317191
-#EXTINF:-1,SP: ARG: TyC Sports Internacional SD
-http://62.4.15.182:8880/agos201910/661619291/317173
-#EXTINF:-1,SP: ARG: TyC Sports Internacional HD
-http://62.4.15.182:8880/agos201910/661619291/317174
-#EXTINF:-1,SP: ARG: Directv Sports 1 HD
-http://62.4.15.182:8880/agos201910/661619291/317175
-#EXTINF:-1,SP: ARG: Fox Sports 1 SD
-http://62.4.15.182:8880/agos201910/661619291/317192
-#EXTINF:-1,SP: ARG: Fox Sports 1 HD
-http://62.4.15.182:8880/agos201910/661619291/317193
-#EXTINF:-1,SP: ARG: TNT Sports (Movil)
-http://62.4.15.182:8880/agos201910/661619291/317200
-#EXTINF:-1,SP: ARG: TNT Sports SD
-http://62.4.15.182:8880/agos201910/661619291/317201
-#EXTINF:-1,SP: ARG: TNT Sports HD
-http://62.4.15.182:8880/agos201910/661619291/317202
-#EXTINF:-1,SP: ARG: TNT Sports FHD
-http://62.4.15.182:8880/agos201910/661619291/317203
 ###
 '''
 
