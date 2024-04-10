@@ -39,6 +39,19 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 ###
+#EXTINF:-1,America TV HD
+http://190.94.186.135:9981/play/a030/index.m3u8
+#EXTINF:-1,Canal 9 HD
+http://190.94.186.135:9981/play/a034/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.94.186.135:9981/play/a03a/index.m3u8
+#EXTINF:-1,Fox Sports HD
+http://190.94.186.135:9981/play/a03d/index.m3u8
+#EXTINF:-1,History 2
+http://190.94.186.135:9981/play/a04x/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://190.94.186.135:9981/play/a038/index.m3u8
+###
 #EXTINF:-1,Fox Sports (PM)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/975
 #EXTINF:-1,Espn 1 ARG (X)(720)
@@ -69,9 +82,6 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/27530
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
 #EXTINF:-1,HBO Family (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1034
-#EXTINF:-1,DOC-H2 (e)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1062
-###
 ###
 '''
 
