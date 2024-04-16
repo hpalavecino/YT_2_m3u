@@ -83,6 +83,23 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
 #EXTINF:-1,HBO Family (X)(720)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1034
 ###
+#EXTINF:-1,ES-PN HD (p)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/130105
+#EXTINF:-1,ES-PN SD (p)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/130100
+#EXTINF:-1,ES-PN (AR)(i)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/158891
+#EXTINF:-1,ES-PN Premium HD (AR) (i)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/158832
+#EXTINF:-1,ES-PN Premium AR (p)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/1652
+#EXTINF:-1,T-N-T Sports HD (i)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/158846
+#EXTINF:-1,T-n-T Sports SD (AR)(p)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/132738
+#EXTINF:-1,T-n-T SPORTS (AR)(p)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/160043
+    ###
 '''
 
 import requests
