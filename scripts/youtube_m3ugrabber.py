@@ -40,17 +40,13 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 ###
 #EXTINF:-1,America TV HD
-http://190.94.186.135:9981/play/a030/index.m3u8
+http://budtvlight.com:25461/eventosxc/exnReMem4c/162332
 #EXTINF:-1,Canal 9 HD
-http://190.94.186.135:9981/play/a034/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.94.186.135:9981/play/a03a/index.m3u8
-#EXTINF:-1,Fox Sports HD
-http://190.94.186.135:9981/play/a03d/index.m3u8
+http://budtvlight.com:25461/eventosxc/exnReMem4c/162333
 #EXTINF:-1,History 2
 http://190.94.186.135:9981/play/a04x/index.m3u8
 #EXTINF:-1,TyC Sports HD
-http://190.94.186.135:9981/play/a038/index.m3u8
+http://budtvlight.com:25461/eventosxc/exnReMem4c/1649
 ###
 #EXTINF:-1,Fox Sports (PM)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/975
@@ -80,13 +76,22 @@ http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166828
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/27530
 #EXTINF:-1,ARG-Fox Sports Premium (T)(1080)
 http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
-#EXTINF:-1,HBO Family (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1034
+###
+#EXTINF:-1,HBO HD
+http://budtvlight.com:25461/eventosxc/exnReMem4c/30346
+#EXTINF:-1,HBO SD
+http://budtvlight.com:25461/eventosxc/exnReMem4c/132682
+#EXTINF:-1,HBO Family HD
+http://budtvlight.com:25461/eventosxc/exnReMem4c/128652
+#EXTINF:-1,HBO Family SD
+http://budtvlight.com:25461/eventosxc/exnReMem4c/128650
 ###
 #EXTINF:-1,ES-PN HD (p)
 http://budtvlight.com:25461/eventosxc/exnReMem4c/130105
 #EXTINF:-1,ES-PN SD (p)
 http://budtvlight.com:25461/eventosxc/exnReMem4c/130100
+#EXTINF:-1,ES-PN (AR)(p)
+http://budtvlight.com:25461/eventosxc/exnReMem4c/130097
 #EXTINF:-1,ES-PN (AR)(i)
 http://budtvlight.com:25461/eventosxc/exnReMem4c/158891
 #EXTINF:-1,ES-PN Premium HD (AR) (i)
