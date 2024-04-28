@@ -19,12 +19,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TN
+#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTBangladeshLogo.png" tvg-id="", TN
 #EXTVLCOPT:network-caching=1000
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="News",América Tucumán (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="Varios",América Tucumán (720p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Varios",C5N (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
@@ -34,77 +34,40 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TyC
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-#EXTINF:-1,TELEFE
+#EXTINF:-1 group-title="Varios",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="General",El Ocho (1080p) [Not 24/7]
-https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Varios",El Ocho (1080p) [Not 24/7]
+https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8    
 ###
-#EXTINF:-1,America TV HD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/162332
-#EXTINF:-1,Canal 9 HD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/162333
-#EXTINF:-1,History 2
-http://190.94.186.135:9981/play/a04x/index.m3u8
-#EXTINF:-1,TyC Sports HD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/1649
+#EXTINF:-1 group-title="Varios", Low | ESPN (Low)
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/3851.ts
+#EXTINF:-1 group-title="Varios",ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/151113.ts
+#EXTINF:-1 group-title="Varios",ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/148455.ts
+#EXTINF:-1 group-title="Varios",ARG: TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/148459.ts
+#EXTINF:-1 group-title="Varios",Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ  | ESPN UHD
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/2816.ts
+#EXTINF:-1 group-title="Varios",Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TNT SPORTS UHD ARG.
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/2688.ts
+#EXTINF:-1 group-title="Varios",Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/137121.ts
+#EXTINF:-1 group-title="Varios",ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/4938.ts
+#EXTINF:-1 group-title="Varios",ARG: TYC Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/4945.ts
+#EXTINF:-1 group-title="Varios",Sports | ESPN PREMIUM HD ARG
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145417.ts
+#EXTINF:-1 group-title="Varios",Sports | ESPN PREMIUM HD 
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145421.ts
+#EXTINF:-1 group-title="Varios",Sports | DIRECTV SPORTS HD (ARG)
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145400.ts
+#EXTINF:-1 group-title="Varios",Sports | TYC SPORTS INTERNACIONAL
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145441.ts
+#EXTINF:-1 group-title="Varios",Sports | TNT SPORTS ARGENTINA HD
+http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145442.ts
 ###
-#EXTINF:-1,Fox Sports (PM)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/975
-#EXTINF:-1,Espn 1 ARG (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/69718
-#EXTINF:-1,Espn Premium ARG (X)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154049
-#EXTINF:-1,ESPN Premium ARG (X)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1528
-#EXTINF:-1,Directv Sports 1 (ARG) (X)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/4668
-#EXTINF:-1,ARG-TNT Sports (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/153802
-#EXTINF:-1,ARG-TYC Sports Local (X)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/22127
-#EXTINF:-1,Espn Premium ARG (L)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/154050
-#EXTINF:-1,ESPN Premium ARG (L)(SD)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1529
-#EXTINF:-1,Fox Sports 1 ARG (L)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/141445
-#EXTINF:-1,ARG-TNT Sports (L)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/309414
-#EXTINF:-1,Espn 1 ARG (T)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/166828
-#EXTINF:-1,TyC Sports INT (T)(720)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/27530
-#EXTINF:-1,ARG-Fox Sports Premium (T)(1080)
-http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/59809
-###
-#EXTINF:-1,HBO HD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/30346
-#EXTINF:-1,HBO SD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/132682
-#EXTINF:-1,HBO Family HD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/128652
-#EXTINF:-1,HBO Family SD
-http://budtvlight.com:25461/eventosxc/exnReMem4c/128650
-###
-#EXTINF:-1,ES-PN HD (p)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/130105
-#EXTINF:-1,ES-PN SD (p)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/130100
-#EXTINF:-1,ES-PN (AR)(p)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/130097
-#EXTINF:-1,ES-PN (AR)(i)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/158891
-#EXTINF:-1,ES-PN Premium HD (AR) (i)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/158832
-#EXTINF:-1,ES-PN Premium AR (p)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/1652
-#EXTINF:-1,T-N-T Sports HD (i)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/158846
-#EXTINF:-1,T-n-T Sports SD (AR)(p)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/132738
-#EXTINF:-1,T-n-T SPORTS (AR)(p)
-http://budtvlight.com:25461/eventosxc/exnReMem4c/160043
-    ###
 '''
 
 import requests
