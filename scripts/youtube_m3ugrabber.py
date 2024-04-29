@@ -67,6 +67,8 @@ http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145400.ts
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145441.ts
 #EXTINF:-1 group-title="Varios",Sports | TNT SPORTS ARGENTINA HD
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145442.ts
+#EXTINF:-1 group-title="Varios", LA | (ARG) FOX SPORTS PREMIUM
+http://op.web24.live:8080/Naas-392145/LEybhEVvfaR7/47169
 ###
 '''
 
