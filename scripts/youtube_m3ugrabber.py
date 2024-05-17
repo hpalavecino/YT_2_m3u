@@ -39,6 +39,42 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Varios",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8    
 ###
+#EXTINF:-1 group-title="Varios",ESPN
+http://181.205.77.118:4849/play/a09l
+#EXTINF:-1 group-title="Varios",ESPN HD
+http://181.205.77.118:4849/play/a0bm
+#EXTINF:-1 group-title="Varios",TyC Sports HD
+http://181.205.77.118:4849/play/a0ah
+###
+#EXTINF:-1 group-title="Varios",ESPN 1 HD
+http://45.235.37.254:8370/play/a01f
+#EXTINF:-1 group-title="Varios",ESPN en Star+ 1
+http://45.235.37.254:8370/play/a00e
+#EXTINF:-1 group-title="Varios",ESPN en Star+ 2
+http://45.235.37.254:8370/play/a00b
+#EXTINF:-1 group-title="Varios",ESPN en Star+ 3
+http://45.235.37.254:8370/play/a00s
+#EXTINF:-1 group-title="Varios",Fox Sports 1 HD
+http://45.235.37.254:8370/play/a02o
+#EXTINF:-1 group-title="Varios",TyC Sports HD
+http://45.235.37.254:8370/play/a02a
+###
+#EXTINF:-1 group-title="Varios",America TV HD
+http://190.94.186.158:9981/play/a030/index.m3u8
+#EXTINF:-1 group-title="Varios",Canal 9 HD
+http://190.94.186.158:9981/play/a034/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN HD
+http://190.94.186.158:9981/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Varios",Fox Sports HD
+http://190.94.186.158:9981/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Varios",TyC Sports HD
+http://190.94.186.158:9981/play/a03a/index.m3u8
+###
+#EXTINF:-1 group-title="Varios",ESPN
+http://204.199.122.4:8000/play/b031/index.m3u8
+#EXTINF:-1 group-title="Varios",ESPN PREMIUM-CO
+http://204.199.122.4:8000/play/c025/index.m3u8
+###
 #EXTINF:-1 group-title="Varios", Low | ESPN (Low)
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/3851.ts
 #EXTINF:-1 group-title="Varios",ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
