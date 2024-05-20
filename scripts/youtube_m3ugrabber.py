@@ -75,6 +75,11 @@ http://204.199.122.4:8000/play/b031/index.m3u8
 #EXTINF:-1 group-title="Varios",ESPN PREMIUM-CO
 http://204.199.122.4:8000/play/c025/index.m3u8
 ###
+#EXTINF:-1 group-title="Varios",ESPN HD
+http://38.252.218.10:4000/play/a02z
+#EXTINF:-1 group-title="Varios",TyC Sports HD
+http://38.252.218.10:4000/play/a05h
+###
 #EXTINF:-1 group-title="Varios", Low | ESPN (Low)
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/3851.ts
 #EXTINF:-1 group-title="Varios",ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
