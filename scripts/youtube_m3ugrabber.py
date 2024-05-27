@@ -46,30 +46,6 @@ http://181.205.77.118:4849/play/a0bm
 #EXTINF:-1 group-title="Varios",TyC Sports HD
 http://181.205.77.118:4849/play/a0ah
 ###
-#EXTINF:-1 group-title="Varios",ESPN 1 HD
-http://45.235.37.254:8370/play/a01f
-#EXTINF:-1 group-title="Varios",ESPN en Star+ 1
-http://45.235.37.254:8370/play/a00e
-#EXTINF:-1 group-title="Varios",ESPN en Star+ 2
-http://45.235.37.254:8370/play/a00b
-#EXTINF:-1 group-title="Varios",ESPN en Star+ 3
-http://45.235.37.254:8370/play/a00s
-#EXTINF:-1 group-title="Varios",Fox Sports 1 HD
-http://45.235.37.254:8370/play/a02o
-#EXTINF:-1 group-title="Varios",TyC Sports HD
-http://45.235.37.254:8370/play/a02a
-###
-#EXTINF:-1 group-title="Varios",America TV HD
-http://190.94.186.158:9981/play/a030/index.m3u8
-#EXTINF:-1 group-title="Varios",Canal 9 HD
-http://190.94.186.158:9981/play/a034/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN HD
-http://190.94.186.158:9981/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Varios",Fox Sports HD
-http://190.94.186.158:9981/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Varios",TyC Sports HD
-http://190.94.186.158:9981/play/a03a/index.m3u8
-###
 #EXTINF:-1 group-title="Varios",ESPN
 http://204.199.122.4:8000/play/b031/index.m3u8
 #EXTINF:-1 group-title="Varios",ESPN PREMIUM-CO
@@ -79,6 +55,16 @@ http://204.199.122.4:8000/play/c025/index.m3u8
 http://38.252.218.10:4000/play/a02z
 #EXTINF:-1 group-title="Varios",TyC Sports HD
 http://38.252.218.10:4000/play/a05h
+###
+#EXTINF:-1,ESPN HD
+http://38.56.118.88:4000/play/a00j/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://38.56.118.88:4000/play/a03d/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://38.56.118.88:4000/play/a07w/index.m3u8
+###
+#EXTINF:-1,ESPN
+http://190.211.250.102:8000/play/a017
 ###
 #EXTINF:-1 group-title="Varios", Low | ESPN (Low)
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/3851.ts
