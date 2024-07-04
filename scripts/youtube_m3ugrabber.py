@@ -68,35 +68,6 @@ http://190.211.250.102:8000/play/a017
 ###
 #EXTINF:-1 group-title="Varios", Low | ESPN (Low)
 http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/3851.ts
-#EXTINF:-1 group-title="Varios",ARG: ESPN ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/151113.ts
-#EXTINF:-1 group-title="Varios",ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/148455.ts
-#EXTINF:-1 group-title="Varios",ARG: TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/148459.ts
-#EXTINF:-1 group-title="Varios",Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ  | ESPN UHD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/2816.ts
-#EXTINF:-1 group-title="Varios",Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TNT SPORTS UHD ARG.
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/2688.ts
-#EXTINF:-1 group-title="Varios",Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/137121.ts
-#EXTINF:-1 group-title="Varios",ARG: ESPN Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/4938.ts
-#EXTINF:-1 group-title="Varios",ARG: TYC Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/4945.ts
-#EXTINF:-1 group-title="Varios",Sports | ESPN PREMIUM HD ARG
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145417.ts
-#EXTINF:-1 group-title="Varios",Sports | ESPN PREMIUM HD 
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145421.ts
-#EXTINF:-1 group-title="Varios",Sports | DIRECTV SPORTS HD (ARG)
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145400.ts
-#EXTINF:-1 group-title="Varios",Sports | TYC SPORTS INTERNACIONAL
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145441.ts
-#EXTINF:-1 group-title="Varios",Sports | TNT SPORTS ARGENTINA HD
-http://magmas5.com:8000/live/LocalRestreamIntercambio/GX3FMT14FH/145442.ts
-#EXTINF:-1 group-title="Varios", LA | (ARG) FOX SPORTS PREMIUM
-http://op.web24.live:8080/Naas-392145/LEybhEVvfaR7/47169
-###
 '''
 
 import requests
