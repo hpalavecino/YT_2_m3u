@@ -1,5 +1,128 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+TN | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@todonoticias/live
+
+OLGA | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@olgaenvivo_/live
+
+UrbanaPlay | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@UrbanaPlayFM/live
+
+La Nacion+ | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@lanacion/live
+
+LuzuTV | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@luzutv/live
+
+C5N | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@c5n//live
+
+La100 | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@La100/live
+
+CronicaTV | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@cronicatv/live
+
+A24 | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@A24com/live
+
+RadioPOP | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@popradio1015/live
+
+Vorterix | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@VorterixOficial/live
+
+Canal26 | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@canal26/live
+
+Radio La Red | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@radiolared/live
+
+Rock&Pop | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@fmrockandpop959/live
+
+Blender | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@estoesblender/live
+
+Gelatina | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@SomosGelatina/live
+
+Bondi | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@Bondi_liveok/live
+
+Futurock | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://youtube.com/@futurock/live
+
+Neura | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@NeuraMedia/live
+
+El Destape | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@ElDestapeTV/live
+
+TelefeStreaming | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@Telefe/live
+
+Cenital | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://youtube.com/@cenitalcom/live
+
+Republica Z | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@republicaz/live
+
+La Casa Streaming | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@somoslacasa/live
+
+Picnic Exstraterrestre | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@Picnic.Extraterrestre/live
+
+Ahora Play | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@tesla1923/live
+
+Mate | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://youtube.com/@somosmatear/live
+
+Posdata | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://youtube.com/@posdata_ar/live
+
+MixOn | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@mixontv_/live
+
+Carajo | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@CarajoStream/live
+
+Eva TV | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@evaenvivo/live
+
+Clank! | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@clank_media/live
+
+La Gaceta | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@lagacetadetucuman/live
+
+El Ocho | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@elochotuc/live
+
+America Tucuman | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+http://www.youtube.com/@AmericaTucuman/live
+
+TucmaTV | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@tucma_tv/live
+
+La Tucumana FM | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@latucumanafm/live
+
+Los Primeros | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+http://www.youtube.com/@losprimerostucuman7419/live
+
+El Observador | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@ElObservador107.9/live
+
+TyC Sports Straming | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@tycsports/live
+
+Radio Rivadavia | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@RadioRivadaviaAM630/live
+
+Top FM 104.9 | Varios | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/@topfm1049/live
