@@ -19,21 +19,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTBangladeshLogo.png" tvg-id="", TN
-#EXTVLCOPT:network-caching=1000
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="Varios",América Tucumán (720p) [Not 24/7]
-https://ythlsgo.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Varios",C5N (1080p) [Not 24/7]
-https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Tec TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TVP
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", TyC
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 group-title="Varios",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Varios",El Ocho (1080p) [Not 24/7]
@@ -41,31 +28,6 @@ https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 ###
 #EXTINF:-1 group-title="Varios", Telefe (720p) [Geo-blocked]
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
-#EXTINF:-1 group-title="Varios", ARG: DIRECTV SPORTS
-http://iptv-tn.com:8080/23871776875/23871776875/60830
-#EXTINF:-1 group-title="Varios", ARG: ESPN HD
-http://iptv-tn.com:8080/23871776875/23871776875/60845
-#EXTINF:-1 group-title="Varios", ARG: ESPN HD
-http://iptv-tn.com:8080/23871776875/23871776875/60846
-#EXTINF:-1 group-title="Varios", ARG: ESPN 2  HD
-http://iptv-tn.com:8080/23871776875/23871776875/60842
-#EXTINF:-1 group-title="Varios", ARG: TyC Sports
-http://iptv-tn.com:8080/23871776875/23871776875/60891
-#EXTINF:-1 group-title="Varios", ARG: TYC SPORTS LOCAL
-http://iptv-tn.com:8080/23871776875/23871776875/60895
-###
-#EXTINF:-1 group-title="Varios", ARG: DIRECTV SPORTS
-http://iptv-tn.com:8080/23871776875/23871776875/60830
-#EXTINF:-1 group-title="Varios", ARG: ESPN HD
-http://iptv-tn.com:8080/23871776875/23871776875/60845
-#EXTINF:-1 group-title="Varios", ARG: ESPN HD
-http://iptv-tn.com:8080/23871776875/23871776875/60846
-#EXTINF:-1 group-title="Varios", ARG: ESPN 2  HD
-http://iptv-tn.com:8080/23871776875/23871776875/60842
-#EXTINF:-1 group-title="Varios", ARG: TyC Sports
-http://iptv-tn.com:8080/23871776875/23871776875/60891
-#EXTINF:-1 group-title="Varios", ARG: TYC SPORTS LOCAL
-http://iptv-tn.com:8080/23871776875/23871776875/60895
 ###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
