@@ -39,6 +39,34 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Varios",El Ocho (1080p) [Not 24/7]
 https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8    
 ###
+#EXTINF:-1 group-title="Varios", Telefe (720p) [Geo-blocked]
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTINF:-1 group-title="Varios", ARG: DIRECTV SPORTS
+http://iptv-tn.com:8080/23871776875/23871776875/60830
+#EXTINF:-1 group-title="Varios", ARG: ESPN HD
+http://iptv-tn.com:8080/23871776875/23871776875/60845
+#EXTINF:-1 group-title="Varios", ARG: ESPN HD
+http://iptv-tn.com:8080/23871776875/23871776875/60846
+#EXTINF:-1 group-title="Varios", ARG: ESPN 2  HD
+http://iptv-tn.com:8080/23871776875/23871776875/60842
+#EXTINF:-1 group-title="Varios", ARG: TyC Sports
+http://iptv-tn.com:8080/23871776875/23871776875/60891
+#EXTINF:-1 group-title="Varios", ARG: TYC SPORTS LOCAL
+http://iptv-tn.com:8080/23871776875/23871776875/60895
+###
+#EXTINF:-1 group-title="Varios", ARG: DIRECTV SPORTS
+http://iptv-tn.com:8080/23871776875/23871776875/60830
+#EXTINF:-1 group-title="Varios", ARG: ESPN HD
+http://iptv-tn.com:8080/23871776875/23871776875/60845
+#EXTINF:-1 group-title="Varios", ARG: ESPN HD
+http://iptv-tn.com:8080/23871776875/23871776875/60846
+#EXTINF:-1 group-title="Varios", ARG: ESPN 2  HD
+http://iptv-tn.com:8080/23871776875/23871776875/60842
+#EXTINF:-1 group-title="Varios", ARG: TyC Sports
+http://iptv-tn.com:8080/23871776875/23871776875/60891
+#EXTINF:-1 group-title="Varios", ARG: TYC SPORTS LOCAL
+http://iptv-tn.com:8080/23871776875/23871776875/60895
+###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 2
