@@ -19,15 +19,55 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 group-title="Varios",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-id="ElOcho.ar" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Varios",El Ocho (1080p) [Not 24/7]
-https://ythlsgo.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8    
 ###
 #EXTINF:-1 group-title="Varios", Telefe (720p) [Geo-blocked]
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+#EXTINF:-1 group-title="Varios", Espn Chile
+http://190.211.250.102:8000/play/a017
+#EXTINF:-1 group-title="Varios", Espn 2 Chile
+http://190.211.250.102:8000/play/a016
+#EXTINF:-1 group-title="Varios", Fox Sports/ESPN Premium Chile
+http://190.211.250.102:8000/play/a00r
+#EXTINF:-1 group-title="Varios", Fox Sports 3/ ESPN 6 Chile
+http://190.211.250.102:8000/play/a00n
+#EXTINF:-1 group-title="Varios", GATITO-TV-ESPN
+http://45.181.123.233:8000/play/a0o9
+#EXTINF:-1 group-title="Varios", GATITO-TV-ESPN 2
+http://45.181.123.233:8000/play/a0qt
+#EXTINF:-1 group-title="Varios", GATITO-TV-ESPN 3
+http://45.181.123.233:8000/play/a0p2
+#EXTINF:-1 group-title="Varios", GATITO-TV-ESPN 4
+http://45.181.123.233:8000/play/a164
+#EXTINF:-1 group-title="Varios", GATITO-TV-Fox Sports 1
+http://45.181.123.233:8000/play/a0qm
+#EXTINF:-1 group-title="Varios", GATITO-TV-Fox Sports 2
+http://45.181.123.233:8000/play/a0oj
+#EXTINF:-1 group-title="Varios", GATITO-TV-Fox Sports 3
+http://45.181.123.233:8000/play/a0ok
+#EXTINF:-1 group-title="Varios", TyC Sports HD
+http://190.61.44.34:1010/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Varios", FOX Sports 2 HD
+http://190.61.44.34:1010/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Varios", Fox Sports 1 HD
+http://190.61.44.34:1010/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Varios", Fox Sports 3 HD
+http://190.61.44.34:1010/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN
+http://190.61.44.34:1010/play/a09o/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN 2 HD
+http://190.61.44.34:1010/play/a09p/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN 2 HD
+http://190.61.44.34:1010/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN 3 HD
+http://190.61.44.34:1010/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN 4 HD
+http://190.61.44.34:1010/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN EXTRA HD
+http://190.61.44.34:1010/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN HD
+http://190.61.44.34:1010/play/a00h/index.m3u8
 ###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
