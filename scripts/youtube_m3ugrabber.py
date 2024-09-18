@@ -91,6 +91,91 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/
+###
+#EXTINF:-1 group-title="Varios",C5N
+https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 group-title="Varios",TN
+https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 group-title="Varios",OLGA
+https://ythls-v3.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
+#EXTINF:-1 group-title="Varios",Urbana Play
+https://ythls-v3.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
+#EXTINF:-1 group-title="Varios",LaNacion+
+https://ythls-v3.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 group-title="Varios",La100
+https://ythls-v3.onrender.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ.m3u8
+#EXTINF:-1 group-title="Varios",CronicaTV
+https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1 group-title="Varios",A24
+https://ythls-v3.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 group-title="Varios",RadioPOP
+https://ythls-v3.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
+#EXTINF:-1 group-title="Varios",Vorterix
+https://ythls-v3.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTINF:-1 group-title="Varios",Canal26
+https://ythls-v3.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1 group-title="Varios",Radio La Red
+https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
+#EXTINF:-1 group-title="Varios",Rock&POP
+https://ythls-v3.onrender.com/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
+#EXTINF:-1 group-title="Varios",Blender
+https://ythls-v3.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
+#EXTINF:-1 group-title="Varios",Gelatina
+https://ythls-v3.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
+#EXTINF:-1 group-title="Varios",Bondi Live
+https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
+#EXTINF:-1 group-title="Varios",Futurock FM
+https://ythls-v3.onrender.com/channel/UCgn6r0aGRBnEQm02tE_jzbw.m3u8
+#EXTINF:-1 group-title="Varios",Neura
+https://ythls-v3.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
+#EXTINF:-1 group-title="Varios",El Destape
+https://ythls-v3.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8
+#EXTINF:-1 group-title="Varios",Telefe Streaming
+https://ythls-v3.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
+#EXTINF:-1 group-title="Varios",Cenital
+https://ythls-v3.onrender.com/channel/UCxHSIJgKZ8xVXwLGaGZEmKg.m3u8
+#EXTINF:-1 group-title="Varios",Republica Z
+https://ythls-v3.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
+#EXTINF:-1 group-title="Varios",La Casa Streaming
+https://ythls-v3.onrender.com/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
+#EXTINF:-1 group-title="Varios",Picnic Extraterrestre
+https://ythls-v3.onrender.com/channel/UCzHOIqsAR8xv-Q7SrzBQxqA.m3u8
+#EXTINF:-1 group-title="Varios",Ahora Play
+https://ythls-v3.onrender.com/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
+#EXTINF:-1 group-title="Varios",Mate
+https://ythls-v3.onrender.com/channel/UCTlUJTm5qFRLylSJ_8KS34A.m3u8
+#EXTINF:-1 group-title="Varios",Posdata
+https://ythls-v3.onrender.com/channel/UC7Hx4xBMuw_PvVUliihHEcQ.m3u8
+#EXTINF:-1 group-title="Varios",Mix On
+https://ythls-v3.onrender.com/channel/UCxJoozHpQKs-8IpoHon5PDg.m3u8
+#EXTINF:-1 group-title="Varios",Carajo
+https://ythls-v3.onrender.com/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8
+#EXTINF:-1 group-title="Varios",Eva TV
+https://ythls-v3.onrender.com/channel/UCWwZpofeEFNH-R8g1DC0fHA.m3u8
+#EXTINF:-1 group-title="Varios",Clank!
+https://ythls-v3.onrender.com/channel/UCfXT6V8ZMhybyV1LVdSQ7-A.m3u8
+#EXTINF:-1 group-title="Varios",La Gaceta Play
+https://ythls-v3.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
+#EXTINF:-1 group-title="Varios",El Ocho TV
+https://ythls-v3.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 group-title="Varios",America Tucuman
+https://ythls-v3.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:-1 group-title="Varios",TUCMA TV
+https://ythls-v3.onrender.com/channel/UCzEK8YGump2Ubaf-Kk_cfvw.m3u8
+#EXTINF:-1 group-title="Varios",La Tucumana FM
+https://ythls-v3.onrender.com/channel/UCS_F0326eeAQY09gFqJILCw.m3u8
+#EXTINF:-1 group-title="Varios",Los Primeros
+https://ythls-v3.onrender.com/channel/UCf62XaF_MK2k2-wVggZ6kuw.m3u8
+#EXTINF:-1 group-title="Varios",El Observador
+https://ythls-v3.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
+#EXTINF:-1 group-title="Varios",TyC Sports Streaming
+https://ythls-v3.onrender.com/channel/UC72ZaBKI-Bo5fjmWEYonhJw.m3u8
+#EXTINF:-1 group-title="Varios",Radio Rivadavia
+https://ythls-v3.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
+#EXTINF:-1 group-title="Varios",Fm TOP 104.9
+https://ythls-v3.onrender.com/channel/UCQE5K3FdK8Q0CFtAMEFz09g.m3u8
+#EXTINF:-1 group-title="Varios",Costa Febre Monumental
+https://ythls-v3.onrender.com/channel/UCzbLuIuaZLt7JhJ_aI6mMXA.m3u8
 '''
 
 import requests
