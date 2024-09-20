@@ -76,26 +76,26 @@ http://204.157.251.250:8001/play/a04t/index.m3u8
 ###
 #EXTINF:-1 group-title="Varios", ESPN HD
 http://191.52.214.5:8000/play/a02s/index.m3u8
-Fox Sports 1 HD
+#EXTINF:-1 group-title="Varios", Fox Sports 1 HD
 http://191.52.214.5:8000/play/a03u/index.m3u8
-TyCSports HD
+#EXTINF:-1 group-title="Varios", TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
-ESPN HD
+#EXTINF:-1 group-title="Varios", ESPN HD
 http://45.166.92.22:58001/play/a05u/index.m3u8
-ESPN
+#EXTINF:-1 group-title="Varios", ESPN
 http://177.93.46.163:8000/play/a015
-ESPN CO
+#EXTINF:-1 group-title="Varios", ESPN CO
 http://177.93.46.163:8000/play/a01s
-ESPN 2 Latin
+#EXTINF:-1 group-title="Varios", ESPN 2 Latin
 http://177.93.46.163:8000/play/a014
 ###
-ESPN HD ARG
+#EXTINF:-1 group-title="Varios", ESPN HD ARG
 http://200.59.188.3:8000/play/a02g
-Fox Sports 1 HD
+#EXTINF:-1 group-title="Varios", Fox Sports 1 HD
 http://200.59.188.3:8000/play/a032
-TyC Sports HD
+#EXTINF:-1 group-title="Varios", TyC Sports HD
 http://200.59.188.3:8000/play/a02n
-Run Time
+#EXTINF:-1 group-title="Varios", Run Time
 http://200.59.188.3:8000/play/a0fr
 ###
 #EXTINF:-1 group-title="Varios",C5N
