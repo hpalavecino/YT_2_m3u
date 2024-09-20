@@ -45,28 +45,6 @@ http://45.181.123.233:8000/play/a0qm
 http://45.181.123.233:8000/play/a0oj
 #EXTINF:-1 group-title="Varios", GATITO-TV-Fox Sports 3
 http://45.181.123.233:8000/play/a0ok
-#EXTINF:-1 group-title="Varios", TyC Sports HD
-http://190.61.44.34:1010/play/a05f/index.m3u8
-#EXTINF:-1 group-title="Varios", FOX Sports 2 HD
-http://190.61.44.34:1010/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Varios", Fox Sports 1 HD
-http://190.61.44.34:1010/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Varios", Fox Sports 3 HD
-http://190.61.44.34:1010/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN
-http://190.61.44.34:1010/play/a09o/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN 2 HD
-http://190.61.44.34:1010/play/a09p/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN 2 HD
-http://190.61.44.34:1010/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN 3 HD
-http://190.61.44.34:1010/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN 4 HD
-http://190.61.44.34:1010/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN EXTRA HD
-http://190.61.44.34:1010/play/a04r/index.m3u8
-#EXTINF:-1 group-title="Varios", ESPN HD
-http://190.61.44.34:1010/play/a00h/index.m3u8
 ###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
@@ -90,6 +68,35 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/
+###
+#EXTINF:-1 group-title="Varios", ESPN HD
+http://204.157.251.250:8001/play/a055/index.m3u8
+#EXTINF:-1 group-title="Varios", ESPN 2 HD
+http://204.157.251.250:8001/play/a04t/index.m3u8  
+###
+#EXTINF:-1 group-title="Varios", ESPN HD
+http://191.52.214.5:8000/play/a02s/index.m3u8
+Fox Sports 1 HD
+http://191.52.214.5:8000/play/a03u/index.m3u8
+TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
+ESPN HD
+http://45.166.92.22:58001/play/a05u/index.m3u8
+ESPN
+http://177.93.46.163:8000/play/a015
+ESPN CO
+http://177.93.46.163:8000/play/a01s
+ESPN 2 Latin
+http://177.93.46.163:8000/play/a014
+###
+ESPN HD ARG
+http://200.59.188.3:8000/play/a02g
+Fox Sports 1 HD
+http://200.59.188.3:8000/play/a032
+TyC Sports HD
+http://200.59.188.3:8000/play/a02n
+Run Time
+http://200.59.188.3:8000/play/a0fr
 ###
 #EXTINF:-1 group-title="Varios",C5N
 https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
