@@ -183,6 +183,8 @@ https://ythls-v3.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 https://ythls-v3.onrender.com/channel/UCQE5K3FdK8Q0CFtAMEFz09g.m3u8
 #EXTINF:-1 group-title="Varios",Costa Febre Monumental
 https://ythls-v3.onrender.com/channel/UCzbLuIuaZLt7JhJ_aI6mMXA.m3u8
+#EXTINF:-1 group-title="Varios",AZZ
+https://ythls-v3.onrender.com/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
 '''
 
 import requests
