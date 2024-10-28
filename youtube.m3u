@@ -286,6 +286,6 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", El Ocho
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730101522/ei/suweZ7O8F-fdybgPhrXs2QU/ip/20.102.199.98/id/8UX4fL5M_ss.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303818/txs/51303818%2C51303819%2C51303820%2C51303821/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAZLIJ843ZZB-V2Awr--cHKJEvvd9UdC5i30YT0Gv1DewCQdTrg2OTpp4SLA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge3i87AJdJza9TZo69gca36_caaeW9RJf3NTQ-yRJagoCIHCJM31dJPTZBU-LVB47YAwT8aeCdfHh2ZNSirXOHbup/file/index.m3u8
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", America Tucuman
