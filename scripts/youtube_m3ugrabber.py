@@ -24,6 +24,75 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 ###
 #EXTINF:-1 group-title="Varios", Telefe (720p) [Geo-blocked]
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+###
+#EXTINF:-1 group-title="Varios",ARG003:AMERICA 24
+http://abcnew.site:8880/kg12m0916/xcvss2342/49749
+#EXTINF:-1 group-title="Varios",ARG004:AMERICA TV
+http://abcnew.site:8880/kg12m0916/xcvss2342/49748
+#EXTINF:-1 group-title="Varios",ARG008:C5N
+http://abcnew.site:8880/kg12m0916/xcvss2342/49744
+#EXTINF:-1 group-title="Varios",ARG021:DIRECTV SPORTS
+http://abcnew.site:8880/kg12m0916/xcvss2342/49731
+#EXTINF:-1 group-title="Varios",ARG022:DIRECTV SPORTS +
+http://abcnew.site:8880/kg12m0916/xcvss2342/49730
+#EXTINF:-1 group-title="Varios",ARG023:DIRECTV SPORTS 2
+http://abcnew.site:8880/kg12m0916/xcvss2342/49729
+#EXTINF:-1 group-title="Varios",ARG028:EL NUEVE
+http://abcnew.site:8880/kg12m0916/xcvss2342/49724
+#EXTINF:-1 group-title="Varios",ARG029:EL TRECE
+http://abcnew.site:8880/kg12m0916/xcvss2342/49723
+#EXTINF:-1 group-title="Varios",ARG031:ESPN
+http://abcnew.site:8880/kg12m0916/xcvss2342/49721
+#EXTINF:-1 group-title="Varios",ARG032:ESPN 2
+http://abcnew.site:8880/kg12m0916/xcvss2342/49720
+#EXTINF:-1 group-title="Varios",ARG033:ESPN 3
+http://abcnew.site:8880/kg12m0916/xcvss2342/49719
+#EXTINF:-1 group-title="Varios",ARG034:ESPN PREMIUM
+http://abcnew.site:8880/kg12m0916/xcvss2342/49718
+#EXTINF:-1 group-title="Varios",ARG035:ESPN+
+http://abcnew.site:8880/kg12m0916/xcvss2342/49717
+#EXTINF:-1 group-title="Varios",ARG038:FOX SPORTS 1
+http://abcnew.site:8880/kg12m0916/xcvss2342/49714
+#EXTINF:-1 group-title="Varios",ARG039:FOX SPORTS 2
+http://abcnew.site:8880/kg12m0916/xcvss2342/49713
+#EXTINF:-1 group-title="Varios",ARG040:FOX SPORTS 3
+http://abcnew.site:8880/kg12m0916/xcvss2342/49712
+#EXTINF:-1 group-title="Varios",ARG041:FOX SPORTS PREMIUM
+http://abcnew.site:8880/kg12m0916/xcvss2342/49711
+#EXTINF:-1 group-title="Varios",ARG084:TNT SPORTS
+http://abcnew.site:8880/kg12m0916/xcvss2342/49981
+#EXTINF:-1 group-title="Varios",ARG090:TYC SPORTS
+http://abcnew.site:8880/kg12m0916/xcvss2342/49975
+###
+#EXTINF:-1 group-title="Varios",ARG: America TV
+http://filex.tv:8080/12345678/12345678/303059
+#EXTINF:-1 group-title="Varios",ARG: C5N
+http://filex.tv:8080/12345678/12345678/303068
+#EXTINF:-1 group-title="Varios",ARG: DirecTV Sports
+http://filex.tv:8080/12345678/12345678/303129
+#EXTINF:-1 group-title="Varios",ARG: DirecTV Sports 2
+http://filex.tv:8080/12345678/12345678/303130
+#EXTINF:-1 group-title="Varios",ARG: DirecTV Sports Plus
+http://filex.tv:8080/12345678/12345678/303131
+#EXTINF:-1 group-title="Varios",ARG: ESPN 2
+http://filex.tv:8080/12345678/12345678/303141
+#EXTINF:-1 group-title="Varios",ARG: ESPN 3
+http://filex.tv:8080/12345678/12345678/303142
+#EXTINF:-1 group-title="Varios",ARG: ESPN 4
+http://filex.tv:8080/12345678/12345678/303143
+#EXTINF:-1 group-title="Varios",ARG: ESPN Premium
+http://filex.tv:8080/12345678/12345678/303144
+#EXTINF:-1 group-title="Varios",ARG: FOX SPORTS
+http://filex.tv:8080/12345678/12345678/303148
+#EXTINF:-1 group-title="Varios",ARG: FOX SPORTS 2
+http://filex.tv:8080/12345678/12345678/303149
+#EXTINF:-1 group-title="Varios",ARG: FOX SPORTS 3
+http://filex.tv:8080/12345678/12345678/303150
+#EXTINF:-1 group-title="Varios",ARG: FOX SPORTS Premium
+http://filex.tv:8080/12345678/12345678/303151
+#EXTINF:-1 group-title="Varios",ARG: TyC Sports
+http://filex.tv:8080/12345678/12345678/303225
+###
 #EXTINF:-1 group-title="Varios", Espn Chile
 http://190.211.250.102:8000/play/a017
 #EXTINF:-1 group-title="Varios", Espn 2 Chile
