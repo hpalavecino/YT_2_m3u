@@ -73,6 +73,19 @@ http://45.181.122.46:8090/play/a01m
 #EXTINF:-1 group-title="Varios",TyC Sports
 http://45.181.122.46:8090/play/a01d
 ###
+#EXTINF:-1 group-title="Varios", | ESPN 1 AR | HD |
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513233
+#EXTINF:-1 group-title="Varios", | ESPN PREMIUM AR |
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513256
+#EXTINF:-1 group-title="Varios", | TNT SPORT AR |
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513290
+#EXTINF:-1 group-title="Varios", LIGA ARGENTINA: TYC SPORTS FHD
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/495738
+#EXTINF:-1 group-title="Varios", LIGA ARGENTINA: TNT SPORTS SD
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/495737
+#EXTINF:-1 group-title="Varios", TyC
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/460174
+###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 2
