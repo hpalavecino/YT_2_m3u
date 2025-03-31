@@ -1,14 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
-
-#########################################################################
-#      ____            _           _   __  __                           #
-#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-#                   |__/                                                #
-#                                  >> https://github.com/benmoose39     #
-#########################################################################
 #EXTM3U
 
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Canal 13
@@ -63,29 +53,6 @@ http://181.209.95.29:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="Varios",El Trece
 http://181.209.95.29:8000/play/a06d/index.m3u8
 ###
-#EXTINF:-1 group-title="Varios",ESPN
-http://45.181.122.201:8081/play/a088
-#EXTINF:-1 group-title="Varios",TyC Sports
-http://45.181.122.201:8081/play/a0bh
-###
-#EXTINF:-1 group-title="Varios",ESPN
-http://45.181.122.46:8090/play/a01m
-#EXTINF:-1 group-title="Varios",TyC Sports
-http://45.181.122.46:8090/play/a01d
-###
-#EXTINF:-1 group-title="Varios", | ESPN 1 AR | HD |
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513233
-#EXTINF:-1 group-title="Varios", | ESPN PREMIUM AR |
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513256
-#EXTINF:-1 group-title="Varios", | TNT SPORT AR |
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/513290
-#EXTINF:-1 group-title="Varios", LIGA ARGENTINA: TYC SPORTS FHD
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/495738
-#EXTINF:-1 group-title="Varios", LIGA ARGENTINA: TNT SPORTS SD
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/495737
-#EXTINF:-1 group-title="Varios", TyC
-http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/460174
-###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 2
@@ -116,194 +83,85 @@ http://177.93.46.163:8000/play/a01s
 #EXTINF:-1 group-title="Varios", ESPN 2 Latin
 http://177.93.46.163:8000/play/a014
 ###
-#EXTINF:-1 group-title="Varios",C5N
-https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 group-title="Varios",TN
-https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-#EXTINF:-1 group-title="Varios",OLGA
-https://ythls-v3.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
-#EXTINF:-1 group-title="Varios",Urbana Play
-https://ythls-v3.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
-#EXTINF:-1 group-title="Varios",LaNacion+
-https://ythls-v3.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 group-title="Varios",La100
-https://ythls-v3.onrender.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ.m3u8
-#EXTINF:-1 group-title="Varios",CronicaTV
-https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 group-title="Varios",A24
-https://ythls-v3.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 group-title="Varios",RadioPOP
-https://ythls-v3.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
-#EXTINF:-1 group-title="Varios",Vorterix
-https://ythls-v3.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
-#EXTINF:-1 group-title="Varios",Canal26
-https://ythls-v3.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-#EXTINF:-1 group-title="Varios",Radio La Red
-https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
-#EXTINF:-1 group-title="Varios",Rock&POP
-https://ythls-v3.onrender.com/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
-#EXTINF:-1 group-title="Varios",Blender
-https://ythls-v3.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
-#EXTINF:-1 group-title="Varios",Gelatina
-https://ythls-v3.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
-#EXTINF:-1 group-title="Varios",Bondi Live
-https://ythls-v3.onrender.com/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
-#EXTINF:-1 group-title="Varios",Futurock FM
-https://ythls-v3.onrender.com/channel/UCgn6r0aGRBnEQm02tE_jzbw.m3u8
-#EXTINF:-1 group-title="Varios",Neura
-https://ythls-v3.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
-#EXTINF:-1 group-title="Varios",El Destape
-https://ythls-v3.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8
-#EXTINF:-1 group-title="Varios",Telefe Streaming
-https://ythls-v3.onrender.com/channel/UCHc3el42hXKKhjs_1vzWk9A.m3u8
-#EXTINF:-1 group-title="Varios",Cenital
-https://ythls-v3.onrender.com/channel/UCxHSIJgKZ8xVXwLGaGZEmKg.m3u8
-#EXTINF:-1 group-title="Varios",Republica Z
-https://ythls-v3.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
-#EXTINF:-1 group-title="Varios",La Casa Streaming
-https://ythls-v3.onrender.com/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
-#EXTINF:-1 group-title="Varios",Picnic Extraterrestre
-https://ythls-v3.onrender.com/channel/UCzHOIqsAR8xv-Q7SrzBQxqA.m3u8
-#EXTINF:-1 group-title="Varios",Ahora Play
-https://ythls-v3.onrender.com/channel/UCRyGJcJYqqiCByEaUhDLMsw.m3u8
-#EXTINF:-1 group-title="Varios",Mate
-https://ythls-v3.onrender.com/channel/UCTlUJTm5qFRLylSJ_8KS34A.m3u8
-#EXTINF:-1 group-title="Varios",Posdata
-https://ythls-v3.onrender.com/channel/UC7Hx4xBMuw_PvVUliihHEcQ.m3u8
-#EXTINF:-1 group-title="Varios",Mix On
-https://ythls-v3.onrender.com/channel/UCxJoozHpQKs-8IpoHon5PDg.m3u8
-#EXTINF:-1 group-title="Varios",Carajo
-https://ythls-v3.onrender.com/channel/UC4mdhKZXjrKoq5aVG6juHEg.m3u8
-#EXTINF:-1 group-title="Varios",Eva TV
-https://ythls-v3.onrender.com/channel/UCWwZpofeEFNH-R8g1DC0fHA.m3u8
-#EXTINF:-1 group-title="Varios",Clank!
-https://ythls-v3.onrender.com/channel/UCfXT6V8ZMhybyV1LVdSQ7-A.m3u8
-#EXTINF:-1 group-title="Varios",La Gaceta Play
-https://ythls-v3.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
-#EXTINF:-1 group-title="Varios",El Ocho TV
-https://ythls-v3.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-#EXTINF:-1 group-title="Varios",America Tucuman
-https://ythls-v3.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 group-title="Varios",TUCMA TV
-https://ythls-v3.onrender.com/channel/UCzEK8YGump2Ubaf-Kk_cfvw.m3u8
-#EXTINF:-1 group-title="Varios",La Tucumana FM
-https://ythls-v3.onrender.com/channel/UCS_F0326eeAQY09gFqJILCw.m3u8
-#EXTINF:-1 group-title="Varios",Los Primeros
-https://ythls-v3.onrender.com/channel/UCf62XaF_MK2k2-wVggZ6kuw.m3u8
-#EXTINF:-1 group-title="Varios",El Observador
-https://ythls-v3.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
-#EXTINF:-1 group-title="Varios",TyC Sports Streaming
-https://ythls-v3.onrender.com/channel/UC72ZaBKI-Bo5fjmWEYonhJw.m3u8
-#EXTINF:-1 group-title="Varios",Radio Rivadavia
-https://ythls-v3.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
-#EXTINF:-1 group-title="Varios",Fm TOP 104.9
-https://ythls-v3.onrender.com/channel/UCQE5K3FdK8Q0CFtAMEFz09g.m3u8
-#EXTINF:-1 group-title="Varios",Costa Febre Monumental
-https://ythls-v3.onrender.com/channel/UCzbLuIuaZLt7JhJ_aI6mMXA.m3u8
-#EXTINF:-1 group-title="Varios",AZZ
-https://ythls-v3.onrender.com/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
-
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", TN
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", OLGA
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", UrbanaPlay
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", La Nacion+
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", LuzuTV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", C5N
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", La100
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", CronicaTV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", A24
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", RadioPOP
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Vorterix
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Canal26
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Radio La Red
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Rock&Pop
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Blender
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Gelatina
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Bondi
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Futurock
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Neura
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", El Destape
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", TelefeStreaming
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Cenital
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Republica Z
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", La Casa Streaming
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Picnic Exstraterrestre
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Ahora Play
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Mate
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Posdata
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", MixOn
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Carajo
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Eva TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Clank!
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", La Gaceta
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", El Ocho
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", America Tucuman
+#EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TN
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@todonoticias/live
+#EXTINF:-1 tvg-name="OLGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",OLGA
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@olgaenvivo_/live
+#EXTINF:-1 tvg-name="UrbanaPlay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",UrbanaPlay
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@UrbanaPlayFM/live
+#EXTINF:-1 tvg-name="LaNacion+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",LaNacion+
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@lanacion/live
+#EXTINF:-1 tvg-name="LuzuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",LuzuTV
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@luzutv/live
+#EXTINF:-1 tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",C5N
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@c5n/live
+#EXTINF:-1 tvg-name="La100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La100
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@La100/live
+#EXTINF:-1 tvg-name="CronicaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",CronicaTV
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@cronicatv/live
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",A24
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@A24com/live
+#EXTINF:-1 tvg-name="RadioPOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",RadioPOP
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@popradio1015/live
+#EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Vorterix
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@VorterixOficial/live
+#EXTINF:-1 tvg-name="Canal26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal26
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@canal26/live
+#EXTINF:-1 tvg-name="RadioLaRed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Radio La Red
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@radiolared/live
+#EXTINF:-1 tvg-name="Rock&Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Rock&Pop
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@fmrockandpop959/live
+#EXTINF:-1 tvg-name="Blender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Blender
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@estoesblender/live
+#EXTINF:-1 tvg-name="Gelatina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Gelatina
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@SomosGelatina/live
+#EXTINF:-1 tvg-name="BondiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",BondiTV
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@Bondi_liveok/live
+#EXTINF:-1 tvg-name="Futurock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Futurock
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@futurock/live
+#EXTINF:-1 tvg-name="Neura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Neura
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@NeuraMedia/live
+#EXTINF:-1 tvg-name="El Destape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Destape
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@ElDestapeTV/live
+#EXTINF:-1 tvg-name="TelefeStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TelefeStreaming
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@Telefe/live
+#EXTINF:-1 tvg-name="Cenital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Cenital
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@cenitalcom/live
+#EXTINF:-1 tvg-name="Republicaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",República Z
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@republicaz/live
+#EXTINF:-1 tvg-name="LaCasaStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Casa Streaming
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@somoslacasa/live
+#EXTINF:-1 tvg-name="PicnicExtraterrestre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Picnic Extraterrestrre
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@Picnic.Extraterrestre/live
+#EXTINF:-1 tvg-name="Ahora Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Ahora Play
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@tesla1923/live
+#EXTINF:-1 tvg-name="Mate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Mate
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@somosmatear/live
+#EXTINF:-1 tvg-name="Posdata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Posdata
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@posdata_ar/live
+#EXTINF:-1 tvg-name="MixOn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",MixOn
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@mixontv_/live
+#EXTINF:-1 tvg-name="Carajo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Carajo
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@CarajoStream/live
+#EXTINF:-1 tvg-name="EvaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Eva TV
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@evaenvivo/live
+#EXTINF:-1 tvg-name="Clank!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Clank!
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@clank_media/live
+#EXTINF:-1 tvg-name="LG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Gaceta Play
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@lagacetadetucuman/live
+#EXTINF:-1 tvg-name="ElOcho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Ocho TV
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@elochotuc/live
+#EXTINF:-1 tvg-name="AmericaTucuman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",America Tucumán
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@AmericaTucuman/live
+#EXTINF:-1 tvg-name="TucmaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TucmaTV
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@tucma_tv/live
+#EXTINF:-1 tvg-name="LaTucumanaFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Tucumana FM
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@latucumanafm/live
+#EXTINF:-1 tvg-name="LosPrimeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Los Primeros
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@losprimerostucuman7419/live
+#EXTINF:-1 tvg-name="ElObservador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Observador
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@ElObservador107.9/live
+#EXTINF:-1 tvg-name="TyCStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TyC Streaming
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@tycsports/live
+#EXTINF:-1 tvg-name="RadioRivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",RadioRivadavia
+http://192.168.100.210:6095/stream?url=https://www.youtube.com/@RadioRivadaviaAM630/live
