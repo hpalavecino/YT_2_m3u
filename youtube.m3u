@@ -84,84 +84,84 @@ http://177.93.46.163:8000/play/a01s
 http://177.93.46.163:8000/play/a014
 ###
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TN
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@todonoticias/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@todonoticias/live
 #EXTINF:-1 tvg-name="OLGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",OLGA
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@olgaenvivo_/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@olgaenvivo_/live
 #EXTINF:-1 tvg-name="UrbanaPlay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",UrbanaPlay
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@UrbanaPlayFM/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@UrbanaPlayFM/live
 #EXTINF:-1 tvg-name="LaNacion+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",LaNacion+
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@lanacion/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@lanacion/live
 #EXTINF:-1 tvg-name="LuzuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",LuzuTV
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@luzutv/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@luzutv/live
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",C5N
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@c5n/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@c5n/live
 #EXTINF:-1 tvg-name="La100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La100
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@La100/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@La100/live
 #EXTINF:-1 tvg-name="CronicaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",CronicaTV
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@cronicatv/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@cronicatv/live
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",A24
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@A24com/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@A24com/live
 #EXTINF:-1 tvg-name="RadioPOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",RadioPOP
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@popradio1015/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@popradio1015/live
 #EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Vorterix
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@VorterixOficial/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@VorterixOficial/live
 #EXTINF:-1 tvg-name="Canal26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal26
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@canal26/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@canal26/live
 #EXTINF:-1 tvg-name="RadioLaRed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Radio La Red
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@radiolared/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@radiolared/live
 #EXTINF:-1 tvg-name="Rock&Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Rock&Pop
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@fmrockandpop959/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@fmrockandpop959/live
 #EXTINF:-1 tvg-name="Blender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Blender
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@estoesblender/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@estoesblender/live
 #EXTINF:-1 tvg-name="Gelatina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Gelatina
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@SomosGelatina/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@SomosGelatina/live
 #EXTINF:-1 tvg-name="BondiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",BondiTV
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@Bondi_liveok/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Bondi_liveok/live
 #EXTINF:-1 tvg-name="Futurock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Futurock
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@futurock/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@futurock/live
 #EXTINF:-1 tvg-name="Neura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Neura
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@NeuraMedia/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@NeuraMedia/live
 #EXTINF:-1 tvg-name="El Destape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Destape
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@ElDestapeTV/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ElDestapeTV/live
 #EXTINF:-1 tvg-name="TelefeStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TelefeStreaming
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@Telefe/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Telefe/live
 #EXTINF:-1 tvg-name="Cenital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Cenital
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@cenitalcom/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@cenitalcom/live
 #EXTINF:-1 tvg-name="Republicaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",República Z
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@republicaz/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@republicaz/live
 #EXTINF:-1 tvg-name="LaCasaStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Casa Streaming
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@somoslacasa/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@somoslacasa/live
 #EXTINF:-1 tvg-name="PicnicExtraterrestre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Picnic Extraterrestrre
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@Picnic.Extraterrestre/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Picnic.Extraterrestre/live
 #EXTINF:-1 tvg-name="Ahora Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Ahora Play
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@tesla1923/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@tesla1923/live
 #EXTINF:-1 tvg-name="Mate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Mate
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@somosmatear/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@somosmatear/live
 #EXTINF:-1 tvg-name="Posdata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Posdata
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@posdata_ar/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@posdata_ar/live
 #EXTINF:-1 tvg-name="MixOn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",MixOn
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@mixontv_/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@mixontv_/live
 #EXTINF:-1 tvg-name="Carajo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Carajo
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@CarajoStream/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@CarajoStream/live
 #EXTINF:-1 tvg-name="EvaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Eva TV
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@evaenvivo/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@evaenvivo/live
 #EXTINF:-1 tvg-name="Clank!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Clank!
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@clank_media/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@clank_media/live
 #EXTINF:-1 tvg-name="LG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Gaceta Play
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@lagacetadetucuman/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@lagacetadetucuman/live
 #EXTINF:-1 tvg-name="ElOcho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Ocho TV
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@elochotuc/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@elochotuc/live
 #EXTINF:-1 tvg-name="AmericaTucuman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",America Tucumán
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@AmericaTucuman/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@AmericaTucuman/live
 #EXTINF:-1 tvg-name="TucmaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TucmaTV
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@tucma_tv/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@tucma_tv/live
 #EXTINF:-1 tvg-name="LaTucumanaFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Tucumana FM
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@latucumanafm/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@latucumanafm/live
 #EXTINF:-1 tvg-name="LosPrimeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Los Primeros
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@losprimerostucuman7419/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@losprimerostucuman7419/live
 #EXTINF:-1 tvg-name="ElObservador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Observador
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@ElObservador107.9/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ElObservador107.9/live
 #EXTINF:-1 tvg-name="TyCStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TyC Streaming
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@tycsports/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@tycsports/live
 #EXTINF:-1 tvg-name="RadioRivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",RadioRivadavia
-http://192.168.100.210:6095/stream?url=https://www.youtube.com/@RadioRivadaviaAM630/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@RadioRivadaviaAM630/live
