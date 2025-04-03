@@ -119,6 +119,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@SomosGelatina
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Bondi_liveok/live
 #EXTINF:-1 tvg-name="Futurock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Futurock
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@futurock/live
+#EXTINF:-1 tvg-name="Radio10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Radio 10
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Radio10am/live
 #EXTINF:-1 tvg-name="Neura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Neura
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@NeuraMedia/live
 #EXTINF:-1 tvg-name="El Destape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Destape
@@ -165,3 +167,9 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ElObservador1
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@tycsports/live
 #EXTINF:-1 tvg-name="RadioRivadavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",RadioRivadavia
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@RadioRivadaviaAM630/live
+#EXTINF:-1 tvg-name="Mega983" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Mega 98.3
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Mega983FM/live
+#EXTINF:-1 tvg-name="Infobae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Infobae
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Infobae/live
+#EXTINF:-1 tvg-name="ESPNFans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",ESPN Fans
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ESPNFans/live
