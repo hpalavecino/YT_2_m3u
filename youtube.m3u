@@ -148,30 +148,22 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@cenitalcom/li
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@republicaz/live
 #EXTINF:-1 tvg-name="LaCasaStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Casa Streaming
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@somoslacasa/live
-#EXTINF:-1 tvg-name="PicnicExtraterrestre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Picnic Extraterrestrre
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Picnic.Extraterrestre/live
 #EXTINF:-1 tvg-name="Ahora Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Ahora Play
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@tesla1923/live
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Ahora_Play/live
 #EXTINF:-1 tvg-name="Mate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Mate
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@somosmatear/live
 #EXTINF:-1 tvg-name="Posdata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Posdata
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@posdata_ar/live
-#EXTINF:-1 tvg-name="MixOn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",MixOn
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@mixontv_/live
-#EXTINF:-1 tvg-name="Carajo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Carajo
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@CarajoStream/live
 #EXTINF:-1 tvg-name="EvaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Eva TV
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@evaenvivo/live
-#EXTINF:-1 tvg-name="Clank!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Clank!
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@clank_media/live
 #EXTINF:-1 tvg-name="LG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Gaceta Play
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@lagacetadetucuman/live
 #EXTINF:-1 tvg-name="ElOcho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Ocho TV
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@elochotuc/live
 #EXTINF:-1 tvg-name="AmericaTucuman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",America Tucumán
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@AmericaTucuman/live
-#EXTINF:-1 tvg-name="TucmaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TucmaTV
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@tucma_tv/live
+#EXTINF:-1 tvg-name="NorStreamTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",NorStreamTV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Norstream_tv/live
 #EXTINF:-1 tvg-name="LaTucumanaFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Tucumana FM
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@latucumanafm/live
 #EXTINF:-1 tvg-name="LosPrimeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Los Primeros
@@ -190,3 +182,11 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Infobae/live
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ESPNFans/live
 #EXTINF:-1 tvg-name="TNTSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TNT Sports
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@TNTSportsAR/live
+#EXTINF:-1 tvg-name="Clank!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Clank!
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@clank_media/live
+#EXTINF:-1 tvg-name="PicnicExtraterrestre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Picnic Extraterrestrre
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Picnic.Extraterrestre/live
+#EXTINF:-1 tvg-name="MixOn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",MixOn
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@mixontv_/live
+#EXTINF:-1 tvg-name="Carajo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Carajo
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@CarajoStream/live
