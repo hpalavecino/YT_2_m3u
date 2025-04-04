@@ -138,6 +138,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Radio10am/liv
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@NeuraMedia/live
 #EXTINF:-1 tvg-name="El Destape" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Destape
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ElDestapeTV/live
+#EXTINF:-1 tvg-name="PerfilTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Perfil TV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@perfiltv/live
 #EXTINF:-1 tvg-name="TelefeStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TelefeStreaming
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Telefe/live
 #EXTINF:-1 tvg-name="Cenital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Cenital
