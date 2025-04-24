@@ -184,6 +184,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ESPNFans/live
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@TNTSportsAR/live
 #EXTINF:-1 tvg-name="RiverMonumental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",River Monumental
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@CostaFebreMonumental/live
+#EXTINF:-1 tvg-name="TelemetricoF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Telemetrico F1
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@TelemetricoF1/live
 #EXTINF:-1 tvg-name="Clank!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Clank!
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@clank_media/live
 #EXTINF:-1 tvg-name="PicnicExtraterrestre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Picnic Extraterrestrre
