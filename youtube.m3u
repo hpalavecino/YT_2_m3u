@@ -101,6 +101,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@cronicatv/liv
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@A24com/live
 #EXTINF:-1 tvg-name="RadioPOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",RadioPOP
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@popradio1015/live
+#EXTINF:-1 tvg-name="RadioMitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Radio Mitre
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Radiomitre/live
 #EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Vorterix
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@VorterixOficial/live
 #EXTINF:-1 tvg-name="Canal26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal26
