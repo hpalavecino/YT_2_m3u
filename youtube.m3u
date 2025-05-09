@@ -11,48 +11,6 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 group-title="Varios",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 ###
-#EXTINF:-1 group-title="Varios", Telefe (720p) [Geo-blocked]
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
-###
-#EXTINF:-1 group-title="Varios",26 TV
-http://181.209.95.29:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Varios",A24
-http://181.209.95.29:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Varios",AmericaTV
-http://181.209.95.29:8000/play/a0a7/index.m3u8
-#EXTINF:-1 group-title="Varios",C5N
-http://181.209.95.29:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Varios",CronicaTV
-http://181.209.95.29:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Varios",El Nueve
-http://181.209.95.29:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN
-http://181.209.95.29:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 2
-http://181.209.95.29:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 3
-http://181.209.95.29:8000/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN 4
-http://181.209.95.29:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Varios",ESPN Premium
-http://181.209.95.29:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="Varios",Fox Sports
-http://181.209.95.29:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="Varios",LN+
-http://181.209.95.29:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Varios",TN
-http://181.209.95.29:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="Varios",TNT Sports
-http://181.209.95.29:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Varios",TV Publica
-http://181.209.95.29:8000/play/a0a8/index.m3u8
-#EXTINF:-1 group-title="Varios",Telefe
-http://181.209.95.29:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="Varios",TyC Sports
-http://181.209.95.29:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Varios",El Trece
-http://181.209.95.29:8000/play/a06d/index.m3u8
-###
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 group-title="Varios", EVENTOS TyC PLAY 2
