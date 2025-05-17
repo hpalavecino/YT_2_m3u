@@ -107,6 +107,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@lagacetadetuc
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@elochotuc/live
 #EXTINF:-1 tvg-name="AmericaTucuman" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",America Tucumán
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@AmericaTucuman/live
+#EXTINF:-1 tvg-name="NorteFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Norte FM 103.5
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Nortefmtucuman/live
 #EXTINF:-1 tvg-name="NorStreamTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",NorStreamTV
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Norstream_tv/live
 #EXTINF:-1 tvg-name="LaTucumanaFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Tucumana FM
