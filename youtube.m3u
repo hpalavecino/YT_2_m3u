@@ -123,6 +123,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@RadioRivadavi
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Mega983FM/live
 #EXTINF:-1 tvg-name="Infobae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Infobae
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Infobae/live
+#EXTINF:-1 tvg-name="DiputadosTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",DiputadosTV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@DTVDIPUTADOSTELEVISION/live
 #EXTINF:-1 tvg-name="ESPNFans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",ESPN Fans
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ESPNFans/live
 #EXTINF:-1 tvg-name="TNTSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TNT Sports
