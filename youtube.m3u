@@ -87,6 +87,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ElDestapeTV/l
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@perfiltv/live
 #EXTINF:-1 tvg-name="SplendidAM990" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Splendid AM990
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@splendidam990/live
+#EXTINF:-1 tvg-name="LaVerdadDeportiva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Verdad Deportiva
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@LaVerdadDeportiva/live
 #EXTINF:-1 tvg-name="TelefeStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TelefeStreaming
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Telefe/live
 #EXTINF:-1 tvg-name="Cenital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Cenital
