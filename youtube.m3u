@@ -129,6 +129,12 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@RadioRivadavi
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Mega983FM/live
 #EXTINF:-1 tvg-name="Infobae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Infobae
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Infobae/live
+#EXTINF:-1 tvg-name="SucesosTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Sucesos TV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@radiosucesostv/live
+#EXTINF:-1 tvg-name="LOVE/ST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",LOVE / ST
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@lovest_ok/live
+#EXTINF:-1 tvg-name="RadioContinental" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Radio Continental AM 590
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@radiocontinental590/live
 #EXTINF:-1 tvg-name="DiputadosTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",DiputadosTV
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@DTVDIPUTADOSTELEVISION/live
 #EXTINF:-1 tvg-name="ESPNFans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",ESPN Fans
