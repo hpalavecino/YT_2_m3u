@@ -121,6 +121,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Norstream_tv/
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@latucumanafm/live
 #EXTINF:-1 tvg-name="LosPrimeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Los Primeros
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@losprimerostucuman7419/live
+#EXTINF:-1 tvg-name="EsLoQueHay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",EsLoQueHay Martes 21a23
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@esloquehaytucuman/live
 #EXTINF:-1 tvg-name="ElObservador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",El Observador
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@ElObservador107.9/live
 #EXTINF:-1 tvg-name="TyCStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TyC Streaming
