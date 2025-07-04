@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Varios",Canal10 Tucuman
-http://181.13.239.234/live///qvix1010_tuc.stream/mono.m3u8
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/canal10tucuman
 #EXTINF:-1 group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-id="", Canal 13
 #EXTVLCOPT:network-caching=1000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
