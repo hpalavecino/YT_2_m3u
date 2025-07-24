@@ -79,6 +79,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@SomosGelatina
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Bondi_liveok/live
 #EXTINF:-1 tvg-name="Futurock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Futurock
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@futurock/live
+#EXTINF:-1 tvg-name="AbitareTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Abitare TV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Somosabitare/live
 #EXTINF:-1 tvg-name="Radio10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Radio 10
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Radio10am/live
 #EXTINF:-1 tvg-name="Neura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Neura
