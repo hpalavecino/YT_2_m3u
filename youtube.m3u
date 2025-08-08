@@ -53,6 +53,14 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@luzutv/live
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@c5n/live
 #EXTINF:-1 tvg-name="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal 9
 http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/elnueveenvivo
+#EXTINF:-1 tvg-name="Eltrece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal 13-YT
+http://casaoshhp.ddns.net:6095/stream?urlhttps://www.youtube.com/@eltrece/live
+#EXTINF:-1 tvg-name="Cana13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal 13-Twitch
+http://casaoshhp.ddns.net:6095/stream?urlhttps://www.twitch.tv/eltreceok
+#EXTINF:-1 tvg-name="TelefeStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TelefeStreaming
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Telefe/live
+#EXTINF:-1 tvg-name="TelefeTw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Telefe-Twitch
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/telefe
 #EXTINF:-1 tvg-name="La100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La100
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@La100/live
 #EXTINF:-1 tvg-name="CronicaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",CronicaTV
@@ -93,8 +101,6 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@perfiltv/live
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@splendidam990/live
 #EXTINF:-1 tvg-name="LaVerdadDeportiva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",La Verdad Deportiva
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@LaVerdadDeportiva/live
-#EXTINF:-1 tvg-name="TelefeStreaming" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",TelefeStreaming
-http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@Telefe/live
 #EXTINF:-1 tvg-name="Cenital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Cenital
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@cenitalcom/live
 #EXTINF:-1 tvg-name="Republicaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",República Z
