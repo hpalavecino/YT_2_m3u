@@ -53,6 +53,8 @@ http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@luzutv/live
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@c5n/live
 #EXTINF:-1 tvg-name="Canal9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal 9
 http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/elnueveenvivo
+#EXTINF:-1 tvg-name="TvPublica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Tv Publica
+http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@TVPublicaArgentina/live
 #EXTINF:-1 tvg-name="Eltrece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal 13-YT
 http://casaoshhp.ddns.net:6095/stream?urlhttps://www.youtube.com/@eltrece/live
 #EXTINF:-1 tvg-name="Cana13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal 13-Twitch
