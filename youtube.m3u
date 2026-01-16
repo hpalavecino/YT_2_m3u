@@ -37,6 +37,10 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/12739
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12019
 #EXTINF:-1 group-title="YouTube",DISNEY ESPN URUGUAY
 http://planettvweb.com:8091/pablotorres/Ferpab8719/86845
+#EXTINF:-1 group-title="YouTube",ESPN Colombia HD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/20323
+#EXTINF:-1 group-title="YouTube",DAZN Formula 1
+http://planettvweb.com:8091/pablotorres/Ferpab8719/42757
 #EXTINF:-1 group-title="YouTube",TN HD
 http://planettvweb.com:8091/pablotorres/Ferpab8719/11874
 #EXTINF:-1 group-title="YouTube",TN SD
@@ -55,6 +59,203 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/16274
 http://planettvweb.com:8091/pablotorres/Ferpab8719/11899
 #EXTINF:-1 group-title="YouTube",USA | Mtv Classic
 http://planettvweb.com:8091/pablotorres/Ferpab8719/145314
+###
+#EXTINF:0,ARG - TyC Sports (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157614
+#EXTINF:0,ARG - TyC Sports (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157580
+#EXTINF:0,ARG - TyC Sports (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157583
+#EXTINF:0,ARG - TV P#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157578
+#EXTINF:0,ARG - TV Publica (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157587
+#EXTINF:0,ARG - TV Publica (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157586
+#EXTINF:0,ARG - TNT Sports (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157584
+#EXTINF:0,ARG - TNT Sports (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157585
+#EXTINF:0,ARG - TN Noticias (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157610
+#EXTINF:0,ARG - TN (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157577
+#EXTINF:0,ARG - Telefe Noticias (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157617
+#EXTINF:0,ARG - Telefe (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157589
+#EXTINF:0,ARG - Telefe (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157590
+#EXTINF:0,ARG - LN+ (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157574
+#EXTINF:0,ARG - LN+ (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157593
+#EXTINF:0,ARG - LN + (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157592
+#EXTINF:0,DEPORTES - Fox Sports 3 ARG (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9589
+#EXTINF:0,DEPORTES - Fox Sports 3 ARG (i)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9588
+#EXTINF:0,DEPORTES - Fox Sports 2 ARG (L)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9581
+#EXTINF:0,DEPORTES - Fox Sports 2 ARG (i)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9582
+#EXTINF:0,DEPORTES - Fox Sports 1 ARG (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9576
+#EXTINF:0,DEPORTES - Fox Sports 1 ARG (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9575
+#EXTINF:0,DEPORTES - ESPN Premium ARG (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9550
+#EXTINF:0,DEPORTES - Espn Premium ARG (M)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9546
+#EXTINF:0,DEPORTES - ESPN Premium ARG (L)(SD)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9549
+#EXTINF:0,ARG - ESPN Premium (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157562
+#EXTINF:0,DEPORTES - Espn Extra ARG (L)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9545
+#EXTINF:0,ARG - ESPN 4 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157561
+#EXTINF:0,DEPORTES - Espn 3 ARG (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9534
+#EXTINF:0,DEPORTES - Espn 3 ARG (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9533
+#EXTINF:0,ARG - ESPN 3 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157560
+#EXTINF:0,DEPORTES - Espn 2 ARG (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9528
+#EXTINF:0,DEPORTES - Espn 2 ARG (PM)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9527
+#EXTINF:0,DEPORTES - Espn 2 ARG (e)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9526
+#EXTINF:0,ARG - ESPN 2 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157559
+#EXTINF:0,DEPORTES - Espn 1 ARG (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9522
+#EXTINF:0,DEPORTES - Espn 1 ARG (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9521
+#EXTINF:0,DEPORTES - Espn 1 ARG (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9520
+#EXTINF:0,ARG - ESPN (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157558
+#EXTINF:0,ARG - El trece (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157591
+#EXTINF:0,ARG - El Trece (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157615
+#EXTINF:0,ARG - El Nueve (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157621
+#EXTINF:0,ARG - El Nueve (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157595
+#EXTINF:0,DEPORTES - Directv Sports 2 ARG (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9566
+#EXTINF:0,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/9560
+#EXTINF:0,Dewey Cox: Una vida larga y dura (2007)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/movie/AlainG2370/3af106c81340/148438.mkv
+#EXTINF:0,ARG - DeporTV (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157573
+#EXTINF:0,ARG - Deportv (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157620
+#EXTINF:0,ARG - DEPORTV (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157596
+#EXTINF:0,ARG - Cr#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157572
+#EXTINF:0,ARG - Cronica (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157598
+#EXTINF:0,ARG - Ciudad Magazine (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157565
+#EXTINF:0,ARG - Cinear (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157601
+#EXTINF:0,ARG - Canal de la Ciudad (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157570
+#EXTINF:0,ARG - Canal 9 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157569
+#EXTINF:0,ARG - Canal 26 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157568
+#EXTINF:0,ARG - Canal 26 (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157594
+#EXTINF:0,ARG - Canal 13 (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157567
+#EXTINF:0,ARG - C5N (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157566
+#EXTINF:0,ARG - C5N (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157607
+#EXTINF:0,ARG - America TV (TV)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157622
+#EXTINF:0,ARG - America TV (M)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157623
+#EXTINF:0,ARG - America TV (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157612
+#EXTINF:0,ARG - America TV (L)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157624
+#EXTINF:0,ARG - A24 (Z)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157613
+#EXTINF:0,ARG - A24 (i)(720)
+#EXTVLCOPT:network-caching=1000
+http://tv.zapping.life:8080/AlainG2370/3af106c81340/157616
 ###
 #EXTINF:-1 tvg-name="Canal10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal10 Tucuman
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@canal10tuc/live
