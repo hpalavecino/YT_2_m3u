@@ -37,6 +37,22 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/12739
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12019
 #EXTINF:-1 group-title="YouTube",DISNEY ESPN URUGUAY
 http://planettvweb.com:8091/pablotorres/Ferpab8719/86845
+#EXTINF:-1 group-title="YouTube",TN HD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11874
+#EXTINF:-1 group-title="YouTube",TN SD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11839
+#EXTINF:-1 group-title="YouTube",C5N SD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11863
+#EXTINF:-1 group-title="YouTube",C5N HD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11902
+#EXTINF:-1 group-title="YouTube",CANAL 13 HD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11901
+#EXTINF:-1 group-title="YouTube",Canal 13 Internacional
+http://planettvweb.com:8091/pablotorres/Ferpab8719/12443
+#EXTINF:-1 group-title="YouTube",TELEFE HD ARG
+http://planettvweb.com:8091/pablotorres/Ferpab8719/16274
+#EXTINF:-1 group-title="YouTube",CANAL 9 HD
+http://planettvweb.com:8091/pablotorres/Ferpab8719/11899
 ###
 #EXTINF:-1 tvg-name="Canal10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal10 Tucuman
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@canal10tuc/live
