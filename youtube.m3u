@@ -53,6 +53,8 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/12443
 http://planettvweb.com:8091/pablotorres/Ferpab8719/16274
 #EXTINF:-1 group-title="YouTube",CANAL 9 HD
 http://planettvweb.com:8091/pablotorres/Ferpab8719/11899
+#EXTINF:-1 group-title="YouTube",USA | Mtv Classic
+http://planettvweb.com:8091/pablotorres/Ferpab8719/145314
 ###
 #EXTINF:-1 tvg-name="Canal10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/2560px-YouTube_dark_logo_2017.svg.png" group-title="YouTube",Canal10 Tucuman
 http://casaoshhp.ddns.net:6095/stream?url=https://www.youtube.com/@canal10tuc/live
