@@ -2,9 +2,12 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="YouTube",América TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+###EXTVLCOPT:http-user-agent=iPhone
+###EXTVLCOPT:network-caching=1000
+### https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="YouTube",TyC Sports (1080p) [Geo-blocked]
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 group-title="YouTube",ESPN ARG HD
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12755
 #EXTINF:-1 group-title="YouTube",ESPN PREMIUM ARG
