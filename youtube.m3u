@@ -1,26 +1,44 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 #EXTM3U
 
-#EXTINF:-1 group-title="YouTube",ok.ru (1080p)
-http://casaoshhp.ddns.net:6095/stream?url=https://ok.ru/live/6195706404393
-
 #EXTINF:-1 group-title="YouTube",América TV (720p)
 ###EXTVLCOPT:http-user-agent=iPhone
 ###EXTVLCOPT:network-caching=1000
 ### https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="YouTube",El trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="YouTube",TyC Sports (1080p) [Geo-blocked]
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 group-title="YouTube",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="YouTube",A24 (720p)
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8
+#EXTINF:-1 group-title="YouTube",TV Publica
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:-1 group-title="YouTube",Crónica TV
+https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="YouTube",Canal 9
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/elnueveenvivo
+#EXTINF:-1 group-title="YouTube",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 group-title="YouTube",UrbanaPlay
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/urbanaplayfm
+#EXTINF:-1 group-title="YouTube",LuzuTV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/luzu_tv
+#EXTINF:-1 group-title="YouTube",OLGA
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/olgaenvivo
+#EXTINF:-1 group-title="YouTube",BondiTV
+http://casaoshhp.ddns.net:6095/stream?url=https://www.twitch.tv/bondi_live
+#EXTINF:-1 group-title="YouTube",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="YouTube",Metro TV (720p)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 group-title="YouTube",NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="YouTube",Panc TV (720p) [Not 24/7]
 https://panel.host-live.com:19360/20004/20004.m3u8
+#######
 #EXTINF:-1 group-title="YouTube",ESPN ARG HD
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12755
 #EXTINF:-1 group-title="YouTube",ESPN PREMIUM ARG
