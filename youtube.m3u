@@ -12,6 +12,26 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="YouTube",TyC Sports (1080p) [Geo-blocked]
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+###
+#EXTINF:-1 group-title="YouTube",TNT Sports Premium
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="YouTube",ESPN Premium
+http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="YouTube",ESPN HD
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="YouTube",TyC Sports
+http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="YouTube",FOX Sports
+http://181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="YouTube",El nueve
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="YouTube",Telefé
+http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="YouTube",El trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="YouTube",América
+http://181.13.252.102:8000/play/a055/index.m3u8
+###
 #EXTINF:-1 group-title="YouTube",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="YouTube",A24 (720p)
